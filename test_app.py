@@ -175,11 +175,13 @@ def test_unknown_records_and_invalid_status(client):
 
 def test_environment_and_logs(tmp_path, games, monkeypatch, caplog):
     path = tmp_path / "custom.json"
-    monkeypatch.setenv("APP_NAME", "Игры нашей компании")
+    catalogue = tmp_path / "my_games.json"
+    catalogue.write_text(json.dumps(games), encoding="utf-8")
+    monkeypatch.setenv("GAMES_FILE", str(catalogue))
     monkeypatch.setenv("GAME_ROLL_DATA", str(path))
     with caplog.at_level(logging.INFO, logger="game_roll"):
-        with TestClient(create_app(games=games)) as client:
-            assert client.get("/openapi.json").json()["info"]["title"] == "Игры нашей компании"
+        with TestClient(create_app()) as client:
+            assert client.get("/games").json() == games
             client.get("/health")
     assert path.exists()
     assert "Service started:" in caplog.text

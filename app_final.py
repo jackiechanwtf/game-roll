@@ -52,14 +52,17 @@ def create_app(data_file=None, games=None):
         if not path.is_absolute():
             path = BASE_DIR / path
         app.state.storage = JsonStorage(path)
+        catalogue_path = Path(os.getenv("GAMES_FILE", "catalogue.json"))
+        if not catalogue_path.is_absolute():
+            catalogue_path = BASE_DIR / catalogue_path
         app.state.games = games if games is not None else json.loads(
-            (BASE_DIR / "catalogue.json").read_text(encoding="utf-8")
+            catalogue_path.read_text(encoding="utf-8")
         )
         logger.info("Service started: name=%s games=%s data=%s", app.title, len(app.state.games), path)
         yield
         logger.info("Service stopped")
 
-    app = FastAPI(title=os.getenv("APP_NAME", "Game Roll"), version=VERSION, lifespan=lifespan)
+    app = FastAPI(title="Game Roll", version=VERSION, lifespan=lifespan)
     app.mount("/static", StaticFiles(directory=BASE_DIR / "static"), name="static")
 
     @app.middleware("http")
