@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 22526,
+    "name": "A Bird Story",
+    "hours": 1.3,
+    "genres": "Adventure",
+    "submissions": 497,
+    "source_url": "https://howlongtobeat.com/game/22526"
+  },
+  {
+    "id": 130,
+    "name": "A Hat in Time",
+    "hours": 9.4,
+    "genres": "Third-Person, Action, Adventure, Platform",
+    "submissions": 493,
+    "source_url": "https://howlongtobeat.com/game/130"
+  },
+  {
+    "id": 65080,
+    "name": "A Plague Tale: Innocence",
+    "hours": 10.9,
+    "genres": "Third-Person, Action, Adventure, Stealth",
+    "submissions": 2356,
+    "source_url": "https://howlongtobeat.com/game/65080"
+  },
+  {
+    "id": 93945,
+    "name": "A Plague Tale: Requiem",
+    "hours": 17.1,
+    "genres": "Third-Person, Action, Adventure, Stealth",
+    "submissions": 875,
+    "source_url": "https://howlongtobeat.com/game/93945"
+  },
+  {
+    "id": 66152,
+    "name": "A Short Hike",
+    "hours": 1.5,
+    "genres": "Adventure",
+    "submissions": 1278,
+    "source_url": "https://howlongtobeat.com/game/66152"
+  },
+  {
+    "id": 18936,
+    "name": "A Story About My Uncle",
+    "hours": 3.1,
+    "genres": "First-Person, Adventure, Platform",
+    "submissions": 989,
+    "source_url": "https://howlongtobeat.com/game/18936"
+  },
+  {
+    "id": 46386,
+    "name": "A Way Out",
+    "hours": 6.0,
+    "genres": "Third-Person, Action, Adventure",
+    "submissions": 1464,
+    "source_url": "https://howlongtobeat.com/game/46386"
+  },
+  {
+    "id": 20076,
+    "name": "ABZÛ",
+    "hours": 1.9,
+    "genres": "Adventure",
+    "submissions": 1901,
+    "source_url": "https://howlongtobeat.com/game/20076"
+  },
+  {
+    "id": 53763,
+    "name": "Ace Combat 7: Skies Unknown",
+    "hours": 12.1,
+    "genres": "Action, Flight",
+    "submissions": 402,
+    "source_url": "https://howlongtobeat.com/game/53763"
+  },
+  {
+    "id": 65827,
+    "name": "AI: The Somnium Files",
+    "hours": 23.0,
+    "genres": "Adventure, Visual Novel",
+    "submissions": 409,
+    "source_url": "https://howlongtobeat.com/game/65827"
+  },
+  {
+    "id": 319,
+    "name": "Alan Wake",
+    "hours": 11.2,
+    "genres": "Third-Person, Action, Horror, Shooter, Survival",
+    "submissions": 1909,
+    "source_url": "https://howlongtobeat.com/game/319"
+  },
+  {
+    "id": 101237,
+    "name": "Alan Wake II",
+    "hours": 19.0,
+    "genres": "Third-Person, Action, Horror, Survival",
+    "submissions": 404,
+    "source_url": "https://howlongtobeat.com/game/101237"
+  },
+  {
+    "id": 97692,
+    "name": "Alan Wake Remastered",
+    "hours": 10.4,
+    "genres": "Third-Person, Action, Adventure, Horror",
+    "submissions": 505,
+    "source_url": "https://howlongtobeat.com/game/97692"
+  },
+  {
+    "id": 320,
+    "name": "Alan Wake's American Nightmare",
+    "hours": 3.6,
+    "genres": "Third-Person, Action, Horror, Shooter, Survival",
+    "submissions": 831,
+    "source_url": "https://howlongtobeat.com/game/320"
+  },
+  {
+    "id": 340,
+    "name": "Alice: Madness Returns",
+    "hours": 13.9,
+    "genres": "Third-Person, Action, Adventure, Hack and Slash, Horror, Platform",
+    "submissions": 393,
+    "source_url": "https://howlongtobeat.com/game/340"
+  },
+  {
+    "id": 16638,
+    "name": "Alien: Isolation",
+    "hours": 18.4,
+    "genres": "First-Person, Horror, Stealth, Survival",
+    "submissions": 1043,
+    "source_url": "https://howlongtobeat.com/game/16638"
+  },
+  {
+    "id": 438,
+    "name": "Amnesia: A Machine for Pigs",
+    "hours": 4.1,
+    "genres": "First-Person, Survival Horror",
+    "submissions": 481,
+    "source_url": "https://howlongtobeat.com/game/438"
+  },
+  {
+    "id": 440,
+    "name": "Amnesia: The Dark Descent",
+    "hours": 7.9,
+    "genres": "First-Person, Action, Adventure, Horror",
+    "submissions": 836,
+    "source_url": "https://howlongtobeat.com/game/440"
+  },
+  {
+    "id": 510,
+    "name": "Antichamber",
+    "hours": 5.9,
+    "genres": "First-Person, Platform, Puzzle",
+    "submissions": 461,
+    "source_url": "https://howlongtobeat.com/game/510"
+  },
+  {
+    "id": 56938,
+    "name": "Ape Out",
+    "hours": 2.2,
+    "genres": "Top-Down, Beat em Up",
+    "submissions": 501,
+    "source_url": "https://howlongtobeat.com/game/56938"
+  },
+  {
+    "id": 104608,
+    "name": "Aperture Desk Job",
+    "hours": 0.5,
+    "genres": "First-Person, On-Rails, Simulation",
+    "submissions": 814,
+    "source_url": "https://howlongtobeat.com/game/104608"
+  },
+  {
+    "id": 81122,
+    "name": "As Dusk Falls",
+    "hours": 6.8,
+    "genres": "Adventure",
+    "submissions": 523,
+    "source_url": "https://howlongtobeat.com/game/81122"
+  },
+  {
+    "id": 649,
+    "name": "Assassin's Creed",
+    "hours": 14.9,
+    "genres": "Third-Person, Real-Time, Action, Adventure, Sandbox, Stealth",
+    "submissions": 1598,
+    "source_url": "https://howlongtobeat.com/game/649"
+  },
+  {
+    "id": 651,
+    "name": "Assassin's Creed II",
+    "hours": 19.2,
+    "genres": "Third-Person, Action, Adventure, Open World",
+    "submissions": 1568,
+    "source_url": "https://howlongtobeat.com/game/651"
+  },
+  {
+    "id": 655,
+    "name": "Assassin's Creed III",
+    "hours": 16.4,
+    "genres": "Action, Adventure",
+    "submissions": 1146,
+    "source_url": "https://howlongtobeat.com/game/655"
+  },
+  {
+    "id": 657,
+    "name": "Assassin's Creed III: Liberation",
+    "hours": 7.9,
+    "genres": "Third-Person, Action, Adventure, Open World",
+    "submissions": 403,
+    "source_url": "https://howlongtobeat.com/game/657"
+  },
+  {
+    "id": 12707,
+    "name": "Assassin's Creed IV: Black Flag",
+    "hours": 23.4,
+    "genres": "Third-Person, Action, Open World, Stealth",
+    "submissions": 1174,
+    "source_url": "https://howlongtobeat.com/game/12707"
+  },
+  {
+    "id": 57503,
+    "name": "Assassin's Creed Odyssey",
+    "hours": 45.4,
+    "genres": "Third-Person, Action, Open World, Role-Playing",
+    "submissions": 1098,
+    "source_url": "https://howlongtobeat.com/game/57503"
+  },
+  {
+    "id": 46402,
+    "name": "Assassin's Creed Origins",
+    "hours": 30.1,
+    "genres": "Third-Person, Action, Adventure",
+    "submissions": 1348,
+    "source_url": "https://howlongtobeat.com/game/46402"
+  },
+  {
+    "id": 77729,
+    "name": "Assassin's Creed Valhalla",
+    "hours": 61.1,
+    "genres": "Third-Person, Action, Adventure, Open World, Role-Playing",
+    "submissions": 567,
+    "source_url": "https://howlongtobeat.com/game/77729"
+  },
+  {
+    "id": 661,
+    "name": "Assassin's Creed: Brotherhood",
+    "hours": 15.2,
+    "genres": "Third-Person, Action, Adventure, Platform",
+    "submissions": 1107,
+    "source_url": "https://howlongtobeat.com/game/661"
+  },
+  {
+    "id": 664,
+    "name": "Assassin's Creed: Revelations",
+    "hours": 12.4,
+    "genres": "Action, Open World",
+    "submissions": 1038,
+    "source_url": "https://howlongtobeat.com/game/664"
+  },
+  {
+    "id": 21246,
+    "name": "Assassin's Creed: Rogue",
+    "hours": 10.5,
+    "genres": "Action, Adventure, Stealth",
+    "submissions": 652,
+    "source_url": "https://howlongtobeat.com/game/21246"
+  },
+  {
+    "id": 26706,
+    "name": "Assassin's Creed: Syndicate",
+    "hours": 18.7,
+    "genres": "Third-Person, Action, Open World, Stealth",
+    "submissions": 644,
+    "source_url": "https://howlongtobeat.com/game/26706"
+  },
+  {
+    "id": 21269,
+    "name": "Assassin's Creed: Unity",
+    "hours": 17.2,
+    "genres": "Third-Person, Action, Adventure, Stealth",
+    "submissions": 805,
+    "source_url": "https://howlongtobeat.com/game/21269"
+  },
+  {
+    "id": 56297,
+    "name": "Atomic Heart",
+    "hours": 16.2,
+    "genres": "First-Person, Shooter",
+    "submissions": 492,
+    "source_url": "https://howlongtobeat.com/game/56297"
+  },
+  {
+    "id": 25024,
+    "name": "Axiom Verge",
+    "hours": 10.7,
+    "genres": "Side, Real-Time, Action, Adventure",
+    "submissions": 429,
+    "source_url": "https://howlongtobeat.com/game/25024"
+  },
+  {
+    "id": 132112,
+    "name": "Balatro",
+    "hours": 7.2,
+    "genres": "Card Game, Roguelike",
+    "submissions": 524,
+    "source_url": "https://howlongtobeat.com/game/132112"
+  },
+  {
+    "id": 68033,
+    "name": "Baldur's Gate 3",
+    "hours": 70.3,
+    "genres": "Isometric, Third-Person, Turn-Based, Role-Playing",
+    "submissions": 453,
+    "source_url": "https://howlongtobeat.com/game/68033"
+  },
+  {
+    "id": 869,
+    "name": "Bastion",
+    "hours": 6.2,
+    "genres": "Top-Down, Action",
+    "submissions": 2411,
+    "source_url": "https://howlongtobeat.com/game/869"
+  },
+  {
+    "id": 881,
+    "name": "Batman: Arkham Asylum",
+    "hours": 12.0,
+    "genres": "Third-Person, Action, Adventure, Beat em Up",
+    "submissions": 1074,
+    "source_url": "https://howlongtobeat.com/game/881"
+  },
+  {
+    "id": 14443,
+    "name": "Batman: Arkham Asylum GOTY",
+    "hours": 11.1,
+    "genres": "Third-Person, Action, Adventure, Beat em Up",
+    "submissions": 2121,
+    "source_url": "https://howlongtobeat.com/game/14443"
+  },
+  {
+    "id": 882,
+    "name": "Batman: Arkham City",
+    "hours": 12.5,
+    "genres": "Action, Adventure, Beat em Up",
+    "submissions": 770,
+    "source_url": "https://howlongtobeat.com/game/882"
+  },
+  {
+    "id": 11963,
+    "name": "Batman: Arkham City GOTY",
+    "hours": 13.5,
+    "genres": "Third-Person, Action, Adventure",
+    "submissions": 1339,
+    "source_url": "https://howlongtobeat.com/game/11963"
+  },
+  {
+    "id": 18005,
+    "name": "Batman: Arkham Knight",
+    "hours": 17.0,
+    "genres": "Third-Person, Action, Adventure",
+    "submissions": 1065,
+    "source_url": "https://howlongtobeat.com/game/18005"
+  },
+  {
+    "id": 12676,
+    "name": "Batman: Arkham Origins",
+    "hours": 12.4,
+    "genres": "Action, Adventure",
+    "submissions": 1134,
+    "source_url": "https://howlongtobeat.com/game/12676"
+  },
+  {
+    "id": 47529,
+    "name": "Batman: The Enemy Within",
+    "hours": 10.0,
+    "genres": "Third-Person, Point-and-Click, Adventure",
+    "submissions": 410,
+    "source_url": "https://howlongtobeat.com/game/47529"
+  },
+  {
+    "id": 38001,
+    "name": "Battlefield 1",
+    "hours": 6.7,
+    "genres": "First-Person, Shooter",
+    "submissions": 1045,
+    "source_url": "https://howlongtobeat.com/game/38001"
+  },
+  {
+    "id": 941,
+    "name": "Battlefield 3",
+    "hours": 6.1,
+    "genres": "First-Person, Shooter",
+    "submissions": 966,
+    "source_url": "https://howlongtobeat.com/game/941"
+  },
+  {
+    "id": 942,
+    "name": "Battlefield 4",
+    "hours": 6.2,
+    "genres": "First-Person, Sandbox, Shooter",
+    "submissions": 915,
+    "source_url": "https://howlongtobeat.com/game/942"
+  },
+  {
+    "id": 21620,
+    "name": "Battlefield Hardline",
+    "hours": 7.4,
+    "genres": "First-Person, Shooter",
+    "submissions": 401,
+    "source_url": "https://howlongtobeat.com/game/21620"
+  },
+  {
+    "id": 57352,
+    "name": "Battlefield V",
+    "hours": 6.2,
+    "genres": "First-Person, Shooter",
+    "submissions": 513,
+    "source_url": "https://howlongtobeat.com/game/57352"
+  },
+  {
+    "id": 946,
+    "name": "Battlefield: Bad Company 2",
+    "hours": 6.9,
+    "genres": "First-Person, Action, Shooter",
+    "submissions": 716,
+    "source_url": "https://howlongtobeat.com/game/946"
+  },
+  {
+    "id": 966,
+    "name": "Bayonetta",
+    "hours": 11.5,
+    "genres": "Action, Hack and Slash",
+    "submissions": 2246,
+    "source_url": "https://howlongtobeat.com/game/966"
+  },
+  {
+    "id": 90830,
+    "name": "Before Your Eyes",
+    "hours": 1.7,
+    "genres": "First-Person, Adventure",
+    "submissions": 478,
+    "source_url": "https://howlongtobeat.com/game/90830"
+  },
+  {
+    "id": 1023,
+    "name": "Beyond: Two Souls",
+    "hours": 10.6,
+    "genres": "Adventure, Interactive Art",
+    "submissions": 1086,
+    "source_url": "https://howlongtobeat.com/game/1023"
+  },
+  {
+    "id": 1047,
+    "name": "Binary Domain",
+    "hours": 9.2,
+    "genres": "Tactical, Third-Person, Shooter",
+    "submissions": 504,
+    "source_url": "https://howlongtobeat.com/game/1047"
+  },
+  {
+    "id": 1065,
+    "name": "BioShock",
+    "hours": 12.1,
+    "genres": "First-Person, Action, Horror, Shooter",
+    "submissions": 3483,
+    "source_url": "https://howlongtobeat.com/game/1065"
+  },
+  {
+    "id": 1066,
+    "name": "BioShock 2",
+    "hours": 10.5,
+    "genres": "First-Person, Action, Horror, Shooter",
+    "submissions": 1684,
+    "source_url": "https://howlongtobeat.com/game/1066"
+  },
+  {
+    "id": 1068,
+    "name": "BioShock Infinite",
+    "hours": 11.6,
+    "genres": "First-Person, Action, Shooter",
+    "submissions": 4185,
+    "source_url": "https://howlongtobeat.com/game/1068"
+  },
+  {
+    "id": 1100,
+    "name": "Black Mesa",
+    "hours": 15.2,
+    "genres": "First-Person, Shooter",
+    "submissions": 1075,
+    "source_url": "https://howlongtobeat.com/game/1100"
+  },
+  {
+    "id": 62047,
+    "name": "Blasphemous",
+    "hours": 14.0,
+    "genres": "Side, Action, Platform",
+    "submissions": 475,
+    "source_url": "https://howlongtobeat.com/game/62047"
+  },
+  {
+    "id": 56678,
+    "name": "Bloodstained: Curse of the Moon",
+    "hours": 2.2,
+    "genres": "Side, Action, Platform",
+    "submissions": 590,
+    "source_url": "https://howlongtobeat.com/game/56678"
+  },
+  {
+    "id": 26266,
+    "name": "Bloodstained: Ritual of the Night",
+    "hours": 14.0,
+    "genres": "Side, Action, Adventure, Platform, Role-Playing",
+    "submissions": 426,
+    "source_url": "https://howlongtobeat.com/game/26266"
+  },
+  {
+    "id": 1273,
+    "name": "Borderlands",
+    "hours": 22.2,
+    "genres": "First-Person, Action, Role-Playing, Shooter",
+    "submissions": 758,
+    "source_url": "https://howlongtobeat.com/game/1273"
+  },
+  {
+    "id": 1274,
+    "name": "Borderlands 2",
+    "hours": 30.2,
+    "genres": "First-Person, Action, Role-Playing, Shooter",
+    "submissions": 1120,
+    "source_url": "https://howlongtobeat.com/game/1274"
+  },
+  {
+    "id": 65882,
+    "name": "Borderlands 3",
+    "hours": 23.4,
+    "genres": "First-Person, Action, Shooter",
+    "submissions": 626,
+    "source_url": "https://howlongtobeat.com/game/65882"
+  },
+  {
+    "id": 21248,
+    "name": "Borderlands: The Pre-Sequel!",
+    "hours": 18.2,
+    "genres": "First-Person, Action, Role-Playing, Shooter",
+    "submissions": 453,
+    "source_url": "https://howlongtobeat.com/game/21248"
+  },
+  {
+    "id": 1290,
+    "name": "Braid",
+    "hours": 5.1,
+    "genres": "Side, Platform, Puzzle",
+    "submissions": 652,
+    "source_url": "https://howlongtobeat.com/game/1290"
+  },
+  {
+    "id": 12660,
+    "name": "Brothers: A Tale of Two Sons",
+    "hours": 3.1,
+    "genres": "Third-Person, Adventure",
+    "submissions": 2230,
+    "source_url": "https://howlongtobeat.com/game/12660"
+  },
+  {
+    "id": 1383,
+    "name": "Bulletstorm",
+    "hours": 7.5,
+    "genres": "First-Person, Action, Shooter",
+    "submissions": 981,
+    "source_url": "https://howlongtobeat.com/game/1383"
+  },
+  {
+    "id": 1464,
+    "name": "Call of Duty",
+    "hours": 6.9,
+    "genres": "First-Person, Action, Shooter",
+    "submissions": 569,
+    "source_url": "https://howlongtobeat.com/game/1464"
+  },
+  {
+    "id": 1465,
+    "name": "Call of Duty 2",
+    "hours": 8.0,
+    "genres": "First-Person, Action, Shooter",
+    "submissions": 542,
+    "source_url": "https://howlongtobeat.com/game/1465"
+  },
+  {
+    "id": 1468,
+    "name": "Call of Duty 4: Modern Warfare",
+    "hours": 6.9,
+    "genres": "First-Person, Shooter",
+    "submissions": 1269,
+    "source_url": "https://howlongtobeat.com/game/1468"
+  },
+  {
+    "id": 18220,
+    "name": "Call of Duty: Advanced Warfare",
+    "hours": 7.1,
+    "genres": "First-Person, Shooter",
+    "submissions": 822,
+    "source_url": "https://howlongtobeat.com/game/18220"
+  },
+  {
+    "id": 1471,
+    "name": "Call of Duty: Black Ops",
+    "hours": 7.1,
+    "genres": "First-Person, Action, Shooter",
+    "submissions": 1305,
+    "source_url": "https://howlongtobeat.com/game/1471"
+  },
+  {
+    "id": 82091,
+    "name": "Call of Duty: Black Ops Cold War",
+    "hours": 5.6,
+    "genres": "First-Person, Shooter",
+    "submissions": 495,
+    "source_url": "https://howlongtobeat.com/game/82091"
+  },
+  {
+    "id": 1472,
+    "name": "Call of Duty: Black Ops II",
+    "hours": 7.1,
+    "genres": "First-Person, Shooter",
+    "submissions": 972,
+    "source_url": "https://howlongtobeat.com/game/1472"
+  },
+  {
+    "id": 27127,
+    "name": "Call of Duty: Black Ops III",
+    "hours": 9.0,
+    "genres": "First-Person, Shooter",
+    "submissions": 576,
+    "source_url": "https://howlongtobeat.com/game/27127"
+  },
+  {
+    "id": 14322,
+    "name": "Call of Duty: Ghosts",
+    "hours": 6.0,
+    "genres": "First-Person, Shooter",
+    "submissions": 868,
+    "source_url": "https://howlongtobeat.com/game/14322"
+  },
+  {
+    "id": 63110,
+    "name": "Call of Duty: Modern Warfare",
+    "hours": 6.2,
+    "genres": "First-Person, Shooter",
+    "submissions": 775,
+    "source_url": "https://howlongtobeat.com/game/63110"
+  },
+  {
+    "id": 39302,
+    "name": "Call of Duty: Modern Warfare - Remastered",
+    "hours": 6.1,
+    "genres": "First-Person, Shooter",
+    "submissions": 569,
+    "source_url": "https://howlongtobeat.com/game/39302"
+  },
+  {
+    "id": 1477,
+    "name": "Call of Duty: Modern Warfare 2",
+    "hours": 6.6,
+    "genres": "First-Person, Action, Shooter",
+    "submissions": 1433,
+    "source_url": "https://howlongtobeat.com/game/1477"
+  },
+  {
+    "id": 76475,
+    "name": "Call of Duty: Modern Warfare 2 - Remastered",
+    "hours": 6.0,
+    "genres": "First-Person, Shooter",
+    "submissions": 418,
+    "source_url": "https://howlongtobeat.com/game/76475"
+  },
+  {
+    "id": 1478,
+    "name": "Call of Duty: Modern Warfare 3",
+    "hours": 6.1,
+    "genres": "First-Person, Shooter",
+    "submissions": 1286,
+    "source_url": "https://howlongtobeat.com/game/1478"
+  },
+  {
+    "id": 109060,
+    "name": "Call of Duty: Modern Warfare II",
+    "hours": 8.1,
+    "genres": "First-Person, Shooter",
+    "submissions": 534,
+    "source_url": "https://howlongtobeat.com/game/109060"
+  },
+  {
+    "id": 1483,
+    "name": "Call of Duty: World at War",
+    "hours": 7.1,
+    "genres": "First-Person, Action, Shooter",
+    "submissions": 833,
+    "source_url": "https://howlongtobeat.com/game/1483"
+  },
+  {
+    "id": 46121,
+    "name": "Call of Duty: WWII",
+    "hours": 7.0,
+    "genres": "First-Person, Shooter",
+    "submissions": 1032,
+    "source_url": "https://howlongtobeat.com/game/46121"
+  },
+  {
+    "id": 1487,
+    "name": "Call of Juarez: Gunslinger",
+    "hours": 5.1,
+    "genres": "First-Person, Action, Shooter",
+    "submissions": 1272,
+    "source_url": "https://howlongtobeat.com/game/1487"
+  },
+  {
+    "id": 68169,
+    "name": "Carrion",
+    "hours": 4.6,
+    "genres": "Third-Person, Action, Horror, Puzzle",
+    "submissions": 470,
+    "source_url": "https://howlongtobeat.com/game/68169"
+  },
+  {
+    "id": 1556,
+    "name": "Castle Crashers",
+    "hours": 7.2,
+    "genres": "Action, Adventure, Beat em Up, Role-Playing",
+    "submissions": 617,
+    "source_url": "https://howlongtobeat.com/game/1556"
+  },
+  {
+    "id": 1568,
+    "name": "Castlevania",
+    "hours": 3.0,
+    "genres": "Side, Action, Platform",
+    "submissions": 620,
+    "source_url": "https://howlongtobeat.com/game/1568"
+  },
+  {
+    "id": 1610,
+    "name": "Catherine",
+    "hours": 13.2,
+    "genres": "Adventure, Horror, Platform, Puzzle",
+    "submissions": 726,
+    "source_url": "https://howlongtobeat.com/game/1610"
+  },
+  {
+    "id": 1618,
+    "name": "Cave Story+",
+    "hours": 6.3,
+    "genres": "Action, Adventure",
+    "submissions": 427,
+    "source_url": "https://howlongtobeat.com/game/1618"
+  },
+  {
+    "id": 42818,
+    "name": "Celeste",
+    "hours": 8.3,
+    "genres": "Side, Scrolling, Platform",
+    "submissions": 3203,
+    "source_url": "https://howlongtobeat.com/game/42818"
+  },
+  {
+    "id": 17012,
+    "name": "Child of Light",
+    "hours": 11.2,
+    "genres": "Platform, Role-Playing",
+    "submissions": 489,
+    "source_url": "https://howlongtobeat.com/game/17012"
+  },
+  {
+    "id": 1705,
+    "name": "Chrono Trigger",
+    "hours": 23.1,
+    "genres": "Top-Down, Turn-Based, Role-Playing",
+    "submissions": 680,
+    "source_url": "https://howlongtobeat.com/game/1705"
+  },
+  {
+    "id": 109239,
+    "name": "Cocoon",
+    "hours": 5.0,
+    "genres": "Adventure, Platform, Puzzle",
+    "submissions": 753,
+    "source_url": "https://howlongtobeat.com/game/109239"
+  },
+  {
+    "id": 57507,
+    "name": "Control",
+    "hours": 11.7,
+    "genres": "Third-Person, Action, Adventure, Shooter",
+    "submissions": 1075,
+    "source_url": "https://howlongtobeat.com/game/57507"
+  },
+  {
+    "id": 82054,
+    "name": "Control: Ultimate Edition",
+    "hours": 12.8,
+    "genres": "Third-Person, Action, Adventure, Shooter",
+    "submissions": 558,
+    "source_url": "https://howlongtobeat.com/game/82054"
+  },
+  {
+    "id": 1969,
+    "name": "Crash Bandicoot",
+    "hours": 6.1,
+    "genres": "Platform",
+    "submissions": 485,
+    "source_url": "https://howlongtobeat.com/game/1969"
+  },
+  {
+    "id": 109435,
+    "name": "Crisis Core: Final Fantasy VII Reunion",
+    "hours": 13.7,
+    "genres": "Third-Person, Action, Role-Playing",
+    "submissions": 422,
+    "source_url": "https://howlongtobeat.com/game/109435"
+  },
+  {
+    "id": 2068,
+    "name": "Crysis",
+    "hours": 9.5,
+    "genres": "First-Person, Shooter",
+    "submissions": 985,
+    "source_url": "https://howlongtobeat.com/game/2068"
+  },
+  {
+    "id": 2069,
+    "name": "Crysis 2",
+    "hours": 9.1,
+    "genres": "First-Person, Shooter",
+    "submissions": 945,
+    "source_url": "https://howlongtobeat.com/game/2069"
+  },
+  {
+    "id": 2070,
+    "name": "Crysis 3",
+    "hours": 6.7,
+    "genres": "First-Person, Action, Shooter",
+    "submissions": 592,
+    "source_url": "https://howlongtobeat.com/game/2070"
+  },
+  {
+    "id": 97313,
+    "name": "Cult of the Lamb",
+    "hours": 14.4,
+    "genres": "Action, Roguelike",
+    "submissions": 574,
+    "source_url": "https://howlongtobeat.com/game/97313"
+  },
+  {
+    "id": 21680,
+    "name": "Cuphead",
+    "hours": 10.6,
+    "genres": "Side, Action",
+    "submissions": 1003,
+    "source_url": "https://howlongtobeat.com/game/21680"
+  },
+  {
+    "id": 2127,
+    "name": "Cyberpunk 2077",
+    "hours": 25.7,
+    "genres": "First-Person, Action, Role-Playing, Shooter",
+    "submissions": 1724,
+    "source_url": "https://howlongtobeat.com/game/2127"
+  },
+  {
+    "id": 20855,
+    "name": "Danganronpa 2: Goodbye Despair",
+    "hours": 33.5,
+    "genres": "Adventure, Visual Novel",
+    "submissions": 887,
+    "source_url": "https://howlongtobeat.com/game/20855"
+  },
+  {
+    "id": 44389,
+    "name": "Danganronpa V3: Killing Harmony",
+    "hours": 39.3,
+    "genres": "Adventure, Visual Novel",
+    "submissions": 597,
+    "source_url": "https://howlongtobeat.com/game/44389"
+  },
+  {
+    "id": 16630,
+    "name": "Danganronpa: Trigger Happy Havoc",
+    "hours": 25.2,
+    "genres": "First-Person, Point-and-Click, Adventure, Visual Novel",
+    "submissions": 1334,
+    "source_url": "https://howlongtobeat.com/game/16630"
+  },
+  {
+    "id": 2224,
+    "name": "Dark Souls",
+    "hours": 41.9,
+    "genres": "Third-Person, Action, Role-Playing",
+    "submissions": 721,
+    "source_url": "https://howlongtobeat.com/game/2224"
+  },
+  {
+    "id": 2225,
+    "name": "Dark Souls II",
+    "hours": 43.1,
+    "genres": "Third-Person, Real-Time, Action, Adventure, Open World, Role-Playing",
+    "submissions": 522,
+    "source_url": "https://howlongtobeat.com/game/2225"
+  },
+  {
+    "id": 25311,
+    "name": "Dark Souls II: Scholar of the First Sin",
+    "hours": 35.7,
+    "genres": "Action, Role-Playing",
+    "submissions": 887,
+    "source_url": "https://howlongtobeat.com/game/25311"
+  },
+  {
+    "id": 26803,
+    "name": "Dark Souls III",
+    "hours": 31.6,
+    "genres": "Action, Role-Playing",
+    "submissions": 1697,
+    "source_url": "https://howlongtobeat.com/game/26803"
+  },
+  {
+    "id": 2227,
+    "name": "Dark Souls: Prepare to Die Edition",
+    "hours": 46.2,
+    "genres": "Third-Person, Action, Adventure, Role-Playing",
+    "submissions": 499,
+    "source_url": "https://howlongtobeat.com/game/2227"
+  },
+  {
+    "id": 56677,
+    "name": "Dark Souls: Remastered",
+    "hours": 29.5,
+    "genres": "Action, Role-Playing",
+    "submissions": 802,
+    "source_url": "https://howlongtobeat.com/game/56677"
+  },
+  {
+    "id": 2243,
+    "name": "Darksiders",
+    "hours": 17.1,
+    "genres": "Third-Person, Action, Adventure, Hack and Slash",
+    "submissions": 1043,
+    "source_url": "https://howlongtobeat.com/game/2243"
+  },
+  {
+    "id": 38003,
+    "name": "Days Gone",
+    "hours": 36.3,
+    "genres": "Third-Person, Action, Adventure, Open World, Shooter",
+    "submissions": 479,
+    "source_url": "https://howlongtobeat.com/game/38003"
+  },
+  {
+    "id": 45727,
+    "name": "Dead Cells",
+    "hours": 14.1,
+    "genres": "Action, Platform",
+    "submissions": 669,
+    "source_url": "https://howlongtobeat.com/game/45727"
+  },
+  {
+    "id": 2333,
+    "name": "Dead Space",
+    "hours": 11.0,
+    "genres": "Third-Person, Horror, Shooter, Survival",
+    "submissions": 1651,
+    "source_url": "https://howlongtobeat.com/game/2333"
+  },
+  {
+    "id": 95927,
+    "name": "Dead Space",
+    "hours": 12.1,
+    "genres": "Third-Person, Horror, Shooter, Survival",
+    "submissions": 582,
+    "source_url": "https://howlongtobeat.com/game/95927"
+  },
+  {
+    "id": 2335,
+    "name": "Dead Space 2",
+    "hours": 9.1,
+    "genres": "Third-Person, Horror, Shooter, Survival",
+    "submissions": 1217,
+    "source_url": "https://howlongtobeat.com/game/2335"
+  },
+  {
+    "id": 2337,
+    "name": "Dead Space 3",
+    "hours": 12.8,
+    "genres": "Third-Person, Shooter",
+    "submissions": 452,
+    "source_url": "https://howlongtobeat.com/game/2337"
+  },
+  {
+    "id": 2348,
+    "name": "Deadlight",
+    "hours": 4.0,
+    "genres": "Horror, Survival",
+    "submissions": 633,
+    "source_url": "https://howlongtobeat.com/game/2348"
+  },
+  {
+    "id": 2357,
+    "name": "Deadpool",
+    "hours": 7.3,
+    "genres": "Third-Person, Action",
+    "submissions": 399,
+    "source_url": "https://howlongtobeat.com/game/2357"
+  },
+  {
+    "id": 43743,
+    "name": "Dear Esther",
+    "hours": 1.3,
+    "genres": "First-Person, Interactive Art",
+    "submissions": 1116,
+    "source_url": "https://howlongtobeat.com/game/43743"
+  },
+  {
+    "id": 38061,
+    "name": "Death Stranding",
+    "hours": 40.5,
+    "genres": "Third-Person, Action, Open World",
+    "submissions": 1380,
+    "source_url": "https://howlongtobeat.com/game/38061"
+  },
+  {
+    "id": 90590,
+    "name": "Death's Door",
+    "hours": 9.1,
+    "genres": "Top-Down, Action, Role-Playing",
+    "submissions": 710,
+    "source_url": "https://howlongtobeat.com/game/90590"
+  },
+  {
+    "id": 68258,
+    "name": "Deathloop",
+    "hours": 16.4,
+    "genres": "First-Person, Shooter",
+    "submissions": 607,
+    "source_url": "https://howlongtobeat.com/game/68258"
+  },
+  {
+    "id": 62097,
+    "name": "Deltarune: Chapter 1",
+    "hours": 3.0,
+    "genres": "Top-Down, Turn-Based, Action, Role-Playing",
+    "submissions": 409,
+    "source_url": "https://howlongtobeat.com/game/62097"
+  },
+  {
+    "id": 2448,
+    "name": "Deponia",
+    "hours": 8.1,
+    "genres": "Adventure",
+    "submissions": 399,
+    "source_url": "https://howlongtobeat.com/game/2448"
+  },
+  {
+    "id": 31388,
+    "name": "Detroit: Become Human",
+    "hours": 12.1,
+    "genres": "Third-Person, Adventure",
+    "submissions": 2189,
+    "source_url": "https://howlongtobeat.com/game/31388"
+  },
+  {
+    "id": 2489,
+    "name": "Deus Ex: Human Revolution",
+    "hours": 21.5,
+    "genres": "First-Person, Third-Person, Action, Role-Playing, Sandbox, Shooter",
+    "submissions": 524,
+    "source_url": "https://howlongtobeat.com/game/2489"
+  },
+  {
+    "id": 2496,
+    "name": "Devil May Cry",
+    "hours": 6.2,
+    "genres": "Action, Adventure, Hack and Slash",
+    "submissions": 963,
+    "source_url": "https://howlongtobeat.com/game/2496"
+  },
+  {
+    "id": 19479,
+    "name": "Devil May Cry 3: Dante's Awakening - Special Edition",
+    "hours": 11.8,
+    "genres": "Action, Adventure, Hack and Slash",
+    "submissions": 515,
+    "source_url": "https://howlongtobeat.com/game/19479"
+  },
+  {
+    "id": 27006,
+    "name": "Devil May Cry 4: Special Edition",
+    "hours": 10.7,
+    "genres": "Third-Person, Action, Battle Arena, Hack and Slash",
+    "submissions": 456,
+    "source_url": "https://howlongtobeat.com/game/27006"
+  },
+  {
+    "id": 57514,
+    "name": "Devil May Cry 5",
+    "hours": 11.1,
+    "genres": "Third-Person, Action, Hack and Slash",
+    "submissions": 1642,
+    "source_url": "https://howlongtobeat.com/game/57514"
+  },
+  {
+    "id": 2514,
+    "name": "Diablo III",
+    "hours": 18.1,
+    "genres": "Top-Down, Action, Role-Playing",
+    "submissions": 432,
+    "source_url": "https://howlongtobeat.com/game/2514"
+  },
+  {
+    "id": 71960,
+    "name": "Diablo IV",
+    "hours": 25.8,
+    "genres": "Action, Role-Playing",
+    "submissions": 445,
+    "source_url": "https://howlongtobeat.com/game/71960"
+  },
+  {
+    "id": 57335,
+    "name": "Disco Elysium",
+    "hours": 23.6,
+    "genres": "Isometric, Adventure, Role-Playing",
+    "submissions": 625,
+    "source_url": "https://howlongtobeat.com/game/57335"
+  },
+  {
+    "id": 2602,
+    "name": "Dishonored",
+    "hours": 12.2,
+    "genres": "First-Person, Action, Sandbox, Stealth",
+    "submissions": 2212,
+    "source_url": "https://howlongtobeat.com/game/2602"
+  },
+  {
+    "id": 26731,
+    "name": "Dishonored 2",
+    "hours": 12.5,
+    "genres": "Action, Adventure, Stealth",
+    "submissions": 956,
+    "source_url": "https://howlongtobeat.com/game/26731"
+  },
+  {
+    "id": 46419,
+    "name": "Dishonored: Death of the Outsider",
+    "hours": 6.5,
+    "genres": "Action, Adventure, Stealth",
+    "submissions": 406,
+    "source_url": "https://howlongtobeat.com/game/46419"
+  },
+  {
+    "id": 2653,
+    "name": "DmC: Devil May Cry",
+    "hours": 9.2,
+    "genres": "Beat em Up, Hack and Slash",
+    "submissions": 1070,
+    "source_url": "https://howlongtobeat.com/game/2653"
+  },
+  {
+    "id": 49377,
+    "name": "Doki Doki Literature Club!",
+    "hours": 4.2,
+    "genres": "Text, Visual Novel",
+    "submissions": 1337,
+    "source_url": "https://howlongtobeat.com/game/49377"
+  },
+  {
+    "id": 51323,
+    "name": "Donut County",
+    "hours": 2.0,
+    "genres": "Top-Down, Puzzle",
+    "submissions": 1309,
+    "source_url": "https://howlongtobeat.com/game/51323"
+  },
+  {
+    "id": 2708,
+    "name": "Doom",
+    "hours": 11.7,
+    "genres": "First-Person, Shooter",
+    "submissions": 3138,
+    "source_url": "https://howlongtobeat.com/game/2708"
+  },
+  {
+    "id": 2701,
+    "name": "Doom",
+    "hours": 5.0,
+    "genres": "First-Person, Shooter",
+    "submissions": 530,
+    "source_url": "https://howlongtobeat.com/game/2701"
+  },
+  {
+    "id": 57506,
+    "name": "Doom Eternal",
+    "hours": 14.4,
+    "genres": "First-Person, Shooter",
+    "submissions": 1218,
+    "source_url": "https://howlongtobeat.com/game/57506"
+  },
+  {
+    "id": 2711,
+    "name": "Doom II: Hell on Earth",
+    "hours": 7.0,
+    "genres": "First-Person, Shooter",
+    "submissions": 408,
+    "source_url": "https://howlongtobeat.com/game/2711"
+  },
+  {
+    "id": 11627,
+    "name": "Dragon Age: Inquisition",
+    "hours": 46.6,
+    "genres": "Action, Role-Playing",
+    "submissions": 468,
+    "source_url": "https://howlongtobeat.com/game/11627"
+  },
+  {
+    "id": 2760,
+    "name": "Dragon Age: Origins",
+    "hours": 40.4,
+    "genres": "Third-Person, Real-Time, Role-Playing",
+    "submissions": 528,
+    "source_url": "https://howlongtobeat.com/game/2760"
+  },
+  {
+    "id": 69743,
+    "name": "Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition",
+    "hours": 57.4,
+    "genres": "Third-Person, Turn-Based, Adventure, Role-Playing",
+    "submissions": 612,
+    "source_url": "https://howlongtobeat.com/game/69743"
+  },
+  {
+    "id": 94128,
+    "name": "Dredge",
+    "hours": 9.4,
+    "genres": "Real-Time, Adventure, Horror, Management, Open World, Role-Playing",
+    "submissions": 406,
+    "source_url": "https://howlongtobeat.com/game/94128"
+  },
+  {
+    "id": 12716,
+    "name": "DuckTales: Remastered",
+    "hours": 3.7,
+    "genres": "Platform",
+    "submissions": 413,
+    "source_url": "https://howlongtobeat.com/game/12716"
+  },
+  {
+    "id": 21252,
+    "name": "Dying Light",
+    "hours": 18.0,
+    "genres": "Action, Adventure, Open World, Survival Horror",
+    "submissions": 959,
+    "source_url": "https://howlongtobeat.com/game/21252"
+  },
+  {
+    "id": 68151,
+    "name": "Elden Ring",
+    "hours": 59.8,
+    "genres": "Third-Person, Action, Open World, Role-Playing",
+    "submissions": 1423,
+    "source_url": "https://howlongtobeat.com/game/68151"
+  },
+  {
+    "id": 32034,
+    "name": "Emily is Away",
+    "hours": 0.7,
+    "genres": "Text, Turn-Based, Adventure, Simulation",
+    "submissions": 554,
+    "source_url": "https://howlongtobeat.com/game/32034"
+  },
+  {
+    "id": 3126,
+    "name": "Enslaved: Odyssey to the West",
+    "hours": 9.0,
+    "genres": "Action, Adventure",
+    "submissions": 661,
+    "source_url": "https://howlongtobeat.com/game/3126"
+  },
+  {
+    "id": 3250,
+    "name": "Evoland",
+    "hours": 3.1,
+    "genres": "Adventure, Role-Playing",
+    "submissions": 468,
+    "source_url": "https://howlongtobeat.com/game/3250"
+  },
+  {
+    "id": 3293,
+    "name": "F.E.A.R.",
+    "hours": 8.2,
+    "genres": "First-Person, Shooter",
+    "submissions": 998,
+    "source_url": "https://howlongtobeat.com/game/3293"
+  },
+  {
+    "id": 3294,
+    "name": "F.E.A.R. 2: Project Origin",
+    "hours": 7.1,
+    "genres": "First-Person, Shooter",
+    "submissions": 576,
+    "source_url": "https://howlongtobeat.com/game/3294"
+  },
+  {
+    "id": 3296,
+    "name": "F.E.A.R. 3",
+    "hours": 5.8,
+    "genres": "First-Person, Shooter",
+    "submissions": 489,
+    "source_url": "https://howlongtobeat.com/game/3296"
+  },
+  {
+    "id": 3340,
+    "name": "Fallout 3",
+    "hours": 22.2,
+    "genres": "First-Person, Third-Person, Action, Open World, Role-Playing, Shooter",
+    "submissions": 562,
+    "source_url": "https://howlongtobeat.com/game/3340"
+  },
+  {
+    "id": 26729,
+    "name": "Fallout 4",
+    "hours": 27.5,
+    "genres": "First-Person, Third-Person, Action, Open World, Role-Playing, Shooter",
+    "submissions": 798,
+    "source_url": "https://howlongtobeat.com/game/26729"
+  },
+  {
+    "id": 3351,
+    "name": "Fallout: New Vegas",
+    "hours": 26.9,
+    "genres": "First-Person, Third-Person, Action, Open World, Role-Playing",
+    "submissions": 784,
+    "source_url": "https://howlongtobeat.com/game/3351"
+  },
+  {
+    "id": 3376,
+    "name": "Far Cry",
+    "hours": 12.9,
+    "genres": "First-Person, Shooter",
+    "submissions": 437,
+    "source_url": "https://howlongtobeat.com/game/3376"
+  },
+  {
+    "id": 3378,
+    "name": "Far Cry 3",
+    "hours": 15.8,
+    "genres": "First-Person, Open World, Shooter",
+    "submissions": 1491,
+    "source_url": "https://howlongtobeat.com/game/3378"
+  },
+  {
+    "id": 3379,
+    "name": "Far Cry 3: Blood Dragon",
+    "hours": 4.5,
+    "genres": "First-Person, Action, Open World, Shooter",
+    "submissions": 650,
+    "source_url": "https://howlongtobeat.com/game/3379"
+  },
+  {
+    "id": 19310,
+    "name": "Far Cry 4",
+    "hours": 17.8,
+    "genres": "First-Person, Open World, Shooter",
+    "submissions": 817,
+    "source_url": "https://howlongtobeat.com/game/19310"
+  },
+  {
+    "id": 46093,
+    "name": "Far Cry 5",
+    "hours": 18.2,
+    "genres": "First-Person, Open World, Shooter",
+    "submissions": 863,
+    "source_url": "https://howlongtobeat.com/game/46093"
+  },
+  {
+    "id": 56531,
+    "name": "FAR: Lone Sails",
+    "hours": 3.1,
+    "genres": "Side, Scrolling, Adventure, Puzzle",
+    "submissions": 511,
+    "source_url": "https://howlongtobeat.com/game/56531"
+  },
+  {
+    "id": 3435,
+    "name": "Fez",
+    "hours": 6.0,
+    "genres": "Side, Platform, Puzzle",
+    "submissions": 524,
+    "source_url": "https://howlongtobeat.com/game/3435"
+  },
+  {
+    "id": 3480,
+    "name": "Final Fantasy",
+    "hours": 15.5,
+    "genres": "Role-Playing",
+    "submissions": 863,
+    "source_url": "https://howlongtobeat.com/game/3480"
+  },
+  {
+    "id": 3495,
+    "name": "Final Fantasy II",
+    "hours": 21.6,
+    "genres": "Side, Top-Down, Turn-Based, Role-Playing",
+    "submissions": 480,
+    "source_url": "https://howlongtobeat.com/game/3495"
+  },
+  {
+    "id": 3505,
+    "name": "Final Fantasy IX",
+    "hours": 38.2,
+    "genres": "Role-Playing",
+    "submissions": 864,
+    "source_url": "https://howlongtobeat.com/game/3505"
+  },
+  {
+    "id": 3521,
+    "name": "Final Fantasy VII",
+    "hours": 36.2,
+    "genres": "Isometric, Turn-Based, Role-Playing",
+    "submissions": 1388,
+    "source_url": "https://howlongtobeat.com/game/3521"
+  },
+  {
+    "id": 57686,
+    "name": "Final Fantasy VII Remake",
+    "hours": 32.5,
+    "genres": "Third-Person, Action, Adventure, Role-Playing",
+    "submissions": 1625,
+    "source_url": "https://howlongtobeat.com/game/57686"
+  },
+  {
+    "id": 3524,
+    "name": "Final Fantasy VIII",
+    "hours": 39.3,
+    "genres": "Role-Playing",
+    "submissions": 508,
+    "source_url": "https://howlongtobeat.com/game/3524"
+  },
+  {
+    "id": 3525,
+    "name": "Final Fantasy X",
+    "hours": 45.6,
+    "genres": "Role-Playing",
+    "submissions": 986,
+    "source_url": "https://howlongtobeat.com/game/3525"
+  },
+  {
+    "id": 3532,
+    "name": "Final Fantasy XIII",
+    "hours": 48.1,
+    "genres": "Role-Playing",
+    "submissions": 991,
+    "source_url": "https://howlongtobeat.com/game/3532"
+  },
+  {
+    "id": 3534,
+    "name": "Final Fantasy XIII-2",
+    "hours": 27.9,
+    "genres": "Role-Playing",
+    "submissions": 419,
+    "source_url": "https://howlongtobeat.com/game/3534"
+  },
+  {
+    "id": 83152,
+    "name": "Final Fantasy XVI",
+    "hours": 38.0,
+    "genres": "Third-Person, Action, Role-Playing",
+    "submissions": 468,
+    "source_url": "https://howlongtobeat.com/game/83152"
+  },
+  {
+    "id": 26806,
+    "name": "Firewatch",
+    "hours": 4.1,
+    "genres": "First-Person, Adventure",
+    "submissions": 2857,
+    "source_url": "https://howlongtobeat.com/game/26806"
+  },
+  {
+    "id": 53304,
+    "name": "Florence",
+    "hours": 0.7,
+    "genres": "Adventure",
+    "submissions": 534,
+    "source_url": "https://howlongtobeat.com/game/53304"
+  },
+  {
+    "id": 3608,
+    "name": "Flower",
+    "hours": 2.0,
+    "genres": "Adventure",
+    "submissions": 457,
+    "source_url": "https://howlongtobeat.com/game/3608"
+  },
+  {
+    "id": 41585,
+    "name": "Frostpunk",
+    "hours": 10.6,
+    "genres": "Simulation, Strategy",
+    "submissions": 584,
+    "source_url": "https://howlongtobeat.com/game/41585"
+  },
+  {
+    "id": 30957,
+    "name": "Furi",
+    "hours": 5.6,
+    "genres": "Action",
+    "submissions": 534,
+    "source_url": "https://howlongtobeat.com/game/30957"
+  },
+  {
+    "id": 57422,
+    "name": "Gears 5",
+    "hours": 11.3,
+    "genres": "Third-Person, Action, Shooter",
+    "submissions": 562,
+    "source_url": "https://howlongtobeat.com/game/57422"
+  },
+  {
+    "id": 3862,
+    "name": "Gears of War",
+    "hours": 9.1,
+    "genres": "Third-Person, Action, Shooter",
+    "submissions": 556,
+    "source_url": "https://howlongtobeat.com/game/3862"
+  },
+  {
+    "id": 26788,
+    "name": "Gears of War 4",
+    "hours": 9.1,
+    "genres": "Third-Person, Shooter",
+    "submissions": 901,
+    "source_url": "https://howlongtobeat.com/game/26788"
+  },
+  {
+    "id": 26794,
+    "name": "Gears of War: Ultimate Edition",
+    "hours": 9.0,
+    "genres": "Third-Person, Shooter",
+    "submissions": 511,
+    "source_url": "https://howlongtobeat.com/game/26794"
+  },
+  {
+    "id": 51225,
+    "name": "Ghost of Tsushima",
+    "hours": 25.1,
+    "genres": "Third-Person, Action, Adventure, Open World",
+    "submissions": 873,
+    "source_url": "https://howlongtobeat.com/game/51225"
+  },
+  {
+    "id": 69898,
+    "name": "Ghostrunner",
+    "hours": 7.1,
+    "genres": "First-Person, Action, Platform",
+    "submissions": 867,
+    "source_url": "https://howlongtobeat.com/game/69898"
+  },
+  {
+    "id": 68156,
+    "name": "Ghostwire: Tokyo",
+    "hours": 11.3,
+    "genres": "First-Person, Action, Adventure",
+    "submissions": 434,
+    "source_url": "https://howlongtobeat.com/game/68156"
+  },
+  {
+    "id": 38050,
+    "name": "God of War",
+    "hours": 20.6,
+    "genres": "Third-Person, Action, Adventure, Hack and Slash",
+    "submissions": 2889,
+    "source_url": "https://howlongtobeat.com/game/38050"
+  },
+  {
+    "id": 83146,
+    "name": "God of War: Ragnarök",
+    "hours": 26.5,
+    "genres": "Third-Person, Action, Adventure, Hack and Slash",
+    "submissions": 1154,
+    "source_url": "https://howlongtobeat.com/game/83146"
+  },
+  {
+    "id": 4010,
+    "name": "Gone Home",
+    "hours": 2.0,
+    "genres": "First-Person, Adventure",
+    "submissions": 1612,
+    "source_url": "https://howlongtobeat.com/game/4010"
+  },
+  {
+    "id": 37003,
+    "name": "Gorogoa",
+    "hours": 1.8,
+    "genres": "Adventure, Puzzle",
+    "submissions": 791,
+    "source_url": "https://howlongtobeat.com/game/37003"
+  },
+  {
+    "id": 4061,
+    "name": "Grand Theft Auto III",
+    "hours": 14.4,
+    "genres": "Action, Open World",
+    "submissions": 690,
+    "source_url": "https://howlongtobeat.com/game/4061"
+  },
+  {
+    "id": 4062,
+    "name": "Grand Theft Auto IV",
+    "hours": 27.2,
+    "genres": "Third-Person, Action, Sandbox, Shooter",
+    "submissions": 1187,
+    "source_url": "https://howlongtobeat.com/game/4062"
+  },
+  {
+    "id": 4064,
+    "name": "Grand Theft Auto V",
+    "hours": 32.0,
+    "genres": "First-Person, Third-Person, Action, Open World, Racing/Driving, Shooter",
+    "submissions": 3009,
+    "source_url": "https://howlongtobeat.com/game/4064"
+  },
+  {
+    "id": 4073,
+    "name": "Grand Theft Auto: San Andreas",
+    "hours": 30.3,
+    "genres": "Third-Person, Action, Sandbox, Shooter",
+    "submissions": 934,
+    "source_url": "https://howlongtobeat.com/game/4073"
+  },
+  {
+    "id": 4075,
+    "name": "Grand Theft Auto: Vice City",
+    "hours": 17.3,
+    "genres": "Third-Person, Action, Sandbox, Shooter",
+    "submissions": 756,
+    "source_url": "https://howlongtobeat.com/game/4075"
+  },
+  {
+    "id": 4123,
+    "name": "Grim Fandango",
+    "hours": 11.0,
+    "genres": "Point-and-Click, Adventure, Puzzle",
+    "submissions": 454,
+    "source_url": "https://howlongtobeat.com/game/4123"
+  },
+  {
+    "id": 62257,
+    "name": "GRIS",
+    "hours": 3.5,
+    "genres": "Side, Scrolling, Platform",
+    "submissions": 2154,
+    "source_url": "https://howlongtobeat.com/game/62257"
+  },
+  {
+    "id": 19973,
+    "name": "Guacamelee!: Super Turbo Championship Edition",
+    "hours": 7.0,
+    "genres": "Beat em Up, Platform",
+    "submissions": 555,
+    "source_url": "https://howlongtobeat.com/game/19973"
+  },
+  {
+    "id": 4214,
+    "name": "Gunpoint",
+    "hours": 3.0,
+    "genres": "Action, Strategy, Tactical",
+    "submissions": 543,
+    "source_url": "https://howlongtobeat.com/game/4214"
+  },
+  {
+    "id": 62941,
+    "name": "Hades",
+    "hours": 23.1,
+    "genres": "Isometric, Action, Hack and Slash, Roguelike, Role-Playing",
+    "submissions": 2355,
+    "source_url": "https://howlongtobeat.com/game/62941"
+  },
+  {
+    "id": 4247,
+    "name": "Half-Life",
+    "hours": 12.0,
+    "genres": "First-Person, Real-Time, Shooter",
+    "submissions": 2117,
+    "source_url": "https://howlongtobeat.com/game/4247"
+  },
+  {
+    "id": 4248,
+    "name": "Half-Life 2",
+    "hours": 12.9,
+    "genres": "First-Person, Shooter",
+    "submissions": 2790,
+    "source_url": "https://howlongtobeat.com/game/4248"
+  },
+  {
+    "id": 4250,
+    "name": "Half-Life 2: Episode One",
+    "hours": 3.6,
+    "genres": "First-Person, Shooter",
+    "submissions": 1898,
+    "source_url": "https://howlongtobeat.com/game/4250"
+  },
+  {
+    "id": 4251,
+    "name": "Half-Life 2: Episode Two",
+    "hours": 5.1,
+    "genres": "First-Person, Shooter",
+    "submissions": 1531,
+    "source_url": "https://howlongtobeat.com/game/4251"
+  },
+  {
+    "id": 4252,
+    "name": "Half-Life 2: Lost Coast",
+    "hours": 0.4,
+    "genres": "First-Person, Adventure",
+    "submissions": 709,
+    "source_url": "https://howlongtobeat.com/game/4252"
+  },
+  {
+    "id": 72067,
+    "name": "Half-Life: Alyx",
+    "hours": 12.2,
+    "genres": "First-Person, Virtual Reality, Shooter",
+    "submissions": 583,
+    "source_url": "https://howlongtobeat.com/game/72067"
+  },
+  {
+    "id": 4254,
+    "name": "Half-Life: Blue Shift",
+    "hours": 3.0,
+    "genres": "First-Person, Real-Time, Shooter",
+    "submissions": 906,
+    "source_url": "https://howlongtobeat.com/game/4254"
+  },
+  {
+    "id": 4256,
+    "name": "Half-Life: Opposing Force",
+    "hours": 5.3,
+    "genres": "First-Person, Real-Time, Shooter",
+    "submissions": 848,
+    "source_url": "https://howlongtobeat.com/game/4256"
+  },
+  {
+    "id": 4262,
+    "name": "Halo 2",
+    "hours": 9.2,
+    "genres": "First-Person, Shooter",
+    "submissions": 467,
+    "source_url": "https://howlongtobeat.com/game/4262"
+  },
+  {
+    "id": 22622,
+    "name": "Halo 2: Anniversary",
+    "hours": 8.3,
+    "genres": "First-Person, Shooter",
+    "submissions": 599,
+    "source_url": "https://howlongtobeat.com/game/22622"
+  },
+  {
+    "id": 4263,
+    "name": "Halo 3",
+    "hours": 7.9,
+    "genres": "First-Person, Action, Shooter",
+    "submissions": 1085,
+    "source_url": "https://howlongtobeat.com/game/4263"
+  },
+  {
+    "id": 4264,
+    "name": "Halo 3: ODST",
+    "hours": 6.0,
+    "genres": "First-Person, Shooter",
+    "submissions": 668,
+    "source_url": "https://howlongtobeat.com/game/4264"
+  },
+  {
+    "id": 4265,
+    "name": "Halo 4",
+    "hours": 7.4,
+    "genres": "First-Person, Action, Shooter",
+    "submissions": 898,
+    "source_url": "https://howlongtobeat.com/game/4265"
+  },
+  {
+    "id": 57454,
+    "name": "Halo Infinite",
+    "hours": 11.3,
+    "genres": "First-Person, Open World, Shooter",
+    "submissions": 481,
+    "source_url": "https://howlongtobeat.com/game/57454"
+  },
+  {
+    "id": 4269,
+    "name": "Halo: Combat Evolved",
+    "hours": 10.0,
+    "genres": "First-Person, Shooter",
+    "submissions": 626,
+    "source_url": "https://howlongtobeat.com/game/4269"
+  },
+  {
+    "id": 4270,
+    "name": "Halo: Combat Evolved - Anniversary",
+    "hours": 9.9,
+    "genres": "First-Person, Shooter",
+    "submissions": 961,
+    "source_url": "https://howlongtobeat.com/game/4270"
+  },
+  {
+    "id": 4271,
+    "name": "Halo: Reach",
+    "hours": 7.8,
+    "genres": "First-Person, Action, Shooter",
+    "submissions": 1264,
+    "source_url": "https://howlongtobeat.com/game/4271"
+  },
+  {
+    "id": 4377,
+    "name": "Heavy Rain",
+    "hours": 10.0,
+    "genres": "Adventure, Interactive Art",
+    "submissions": 1368,
+    "source_url": "https://howlongtobeat.com/game/4377"
+  },
+  {
+    "id": 41638,
+    "name": "Hellblade: Senua's Sacrifice",
+    "hours": 7.5,
+    "genres": "Third-Person, Hack and Slash",
+    "submissions": 1938,
+    "source_url": "https://howlongtobeat.com/game/41638"
+  },
+  {
+    "id": 78118,
+    "name": "Helltaker",
+    "hours": 1.1,
+    "genres": "Adventure",
+    "submissions": 629,
+    "source_url": "https://howlongtobeat.com/game/78118"
+  },
+  {
+    "id": 26957,
+    "name": "Her Story",
+    "hours": 2.4,
+    "genres": "Point-and-Click, Simulation",
+    "submissions": 594,
+    "source_url": "https://howlongtobeat.com/game/26957"
+  },
+  {
+    "id": 122891,
+    "name": "Hi-Fi Rush",
+    "hours": 11.2,
+    "genres": "Third-Person, Action, Music/Rhythm",
+    "submissions": 1461,
+    "source_url": "https://howlongtobeat.com/game/122891"
+  },
+  {
+    "id": 109245,
+    "name": "High On Life",
+    "hours": 9.3,
+    "genres": "First-Person, Shooter",
+    "submissions": 727,
+    "source_url": "https://howlongtobeat.com/game/109245"
+  },
+  {
+    "id": 26831,
+    "name": "Hitman",
+    "hours": 10.7,
+    "genres": "Third-Person, Action, Adventure, Sandbox, Stealth",
+    "submissions": 927,
+    "source_url": "https://howlongtobeat.com/game/26831"
+  },
+  {
+    "id": 57478,
+    "name": "Hitman 2",
+    "hours": 10.2,
+    "genres": "Third-Person, Action, Adventure, Sandbox, Stealth",
+    "submissions": 586,
+    "source_url": "https://howlongtobeat.com/game/57478"
+  },
+  {
+    "id": 79774,
+    "name": "Hitman 3",
+    "hours": 8.2,
+    "genres": "Third-Person, Action, Adventure, Sandbox, Stealth",
+    "submissions": 444,
+    "source_url": "https://howlongtobeat.com/game/79774"
+  },
+  {
+    "id": 4475,
+    "name": "Hitman: Absolution",
+    "hours": 12.4,
+    "genres": "Third-Person, Action, Sandbox, Shooter, Stealth",
+    "submissions": 889,
+    "source_url": "https://howlongtobeat.com/game/4475"
+  },
+  {
+    "id": 83145,
+    "name": "Hogwarts Legacy",
+    "hours": 26.7,
+    "genres": "Third-Person, Action, Adventure, Open World, Role-Playing",
+    "submissions": 872,
+    "source_url": "https://howlongtobeat.com/game/83145"
+  },
+  {
+    "id": 26286,
+    "name": "Hollow Knight",
+    "hours": 27.0,
+    "genres": "Action, Adventure",
+    "submissions": 2120,
+    "source_url": "https://howlongtobeat.com/game/26286"
+  },
+  {
+    "id": 4494,
+    "name": "Homefront",
+    "hours": 4.2,
+    "genres": "First-Person, Action, Shooter",
+    "submissions": 765,
+    "source_url": "https://howlongtobeat.com/game/4494"
+  },
+  {
+    "id": 79775,
+    "name": "Horizon Forbidden West",
+    "hours": 28.4,
+    "genres": "Third-Person, Action, Adventure, Open World, Role-Playing",
+    "submissions": 481,
+    "source_url": "https://howlongtobeat.com/game/79775"
+  },
+  {
+    "id": 26784,
+    "name": "Horizon Zero Dawn",
+    "hours": 22.5,
+    "genres": "Third-Person, Action, Adventure, Open World, Role-Playing",
+    "submissions": 745,
+    "source_url": "https://howlongtobeat.com/game/26784"
+  },
+  {
+    "id": 53247,
+    "name": "Horizon Zero Dawn - Complete Edition",
+    "hours": 29.3,
+    "genres": "Third-Person, Action, Adventure, Open World, Role-Playing",
+    "submissions": 1026,
+    "source_url": "https://howlongtobeat.com/game/53247"
+  },
+  {
+    "id": 4530,
+    "name": "Hotline Miami",
+    "hours": 5.2,
+    "genres": "Top-Down, Action, Shooter",
+    "submissions": 2098,
+    "source_url": "https://howlongtobeat.com/game/4530"
+  },
+  {
+    "id": 4531,
+    "name": "Hotline Miami 2: Wrong Number",
+    "hours": 8.8,
+    "genres": "Top-Down, Action, Shooter",
+    "submissions": 841,
+    "source_url": "https://howlongtobeat.com/game/4531"
+  },
+  {
+    "id": 38008,
+    "name": "HUE",
+    "hours": 4.7,
+    "genres": "Adventure, Platform",
+    "submissions": 392,
+    "source_url": "https://howlongtobeat.com/game/38008"
+  },
+  {
+    "id": 13557,
+    "name": "Hyper Light Drifter",
+    "hours": 7.7,
+    "genres": "Top-Down, Real-Time, Action, Adventure, Role-Playing",
+    "submissions": 540,
+    "source_url": "https://howlongtobeat.com/game/13557"
+  },
+  {
+    "id": 37862,
+    "name": "Injustice 2",
+    "hours": 5.7,
+    "genres": "Side, Real-Time, Fighting",
+    "submissions": 543,
+    "source_url": "https://howlongtobeat.com/game/37862"
+  },
+  {
+    "id": 15884,
+    "name": "Injustice: Gods Among Us - Ultimate Edition",
+    "hours": 5.0,
+    "genres": "Fighting",
+    "submissions": 716,
+    "source_url": "https://howlongtobeat.com/game/15884"
+  },
+  {
+    "id": 91622,
+    "name": "Inscryption",
+    "hours": 12.7,
+    "genres": "Card Game, Horror, Roguelike",
+    "submissions": 1051,
+    "source_url": "https://howlongtobeat.com/game/91622"
+  },
+  {
+    "id": 21694,
+    "name": "Inside",
+    "hours": 3.6,
+    "genres": "Side, Scrolling, Platform, Puzzle",
+    "submissions": 2715,
+    "source_url": "https://howlongtobeat.com/game/21694"
+  },
+  {
+    "id": 80199,
+    "name": "It Takes Two",
+    "hours": 12.7,
+    "genres": "Third-Person, Action, Adventure, Platform, Puzzle",
+    "submissions": 1419,
+    "source_url": "https://howlongtobeat.com/game/80199"
+  },
+  {
+    "id": 4867,
+    "name": "Journey",
+    "hours": 2.0,
+    "genres": "Third-Person, Adventure",
+    "submissions": 2547,
+    "source_url": "https://howlongtobeat.com/game/4867"
+  },
+  {
+    "id": 129954,
+    "name": "Jusant",
+    "hours": 4.5,
+    "genres": "Adventure",
+    "submissions": 500,
+    "source_url": "https://howlongtobeat.com/game/129954"
+  },
+  {
+    "id": 4905,
+    "name": "Just Cause 2",
+    "hours": 17.7,
+    "genres": "Third-Person, Action, Open World, Shooter",
+    "submissions": 451,
+    "source_url": "https://howlongtobeat.com/game/4905"
+  },
+  {
+    "id": 62564,
+    "name": "Katamari Damacy Reroll",
+    "hours": 4.6,
+    "genres": "Action, Adventure",
+    "submissions": 433,
+    "source_url": "https://howlongtobeat.com/game/62564"
+  },
+  {
+    "id": 33020,
+    "name": "Katana ZERO",
+    "hours": 4.7,
+    "genres": "Side, Scrolling, Action, Platform",
+    "submissions": 1352,
+    "source_url": "https://howlongtobeat.com/game/33020"
+  },
+  {
+    "id": 79793,
+    "name": "Kena: Bridge of Spirits",
+    "hours": 10.3,
+    "genres": "Third-Person, Action, Adventure, Open World, Platform, Puzzle",
+    "submissions": 597,
+    "source_url": "https://howlongtobeat.com/game/79793"
+  },
+  {
+    "id": 43236,
+    "name": "Kingdom Hearts 0.2: Birth by Sleep - A Fragmentary Passage",
+    "hours": 2.7,
+    "genres": "Third-Person, Action, Role-Playing",
+    "submissions": 397,
+    "source_url": "https://howlongtobeat.com/game/43236"
+  },
+  {
+    "id": 13157,
+    "name": "Kingdom Hearts III",
+    "hours": 28.9,
+    "genres": "Third-Person, Action, Role-Playing",
+    "submissions": 990,
+    "source_url": "https://howlongtobeat.com/game/13157"
+  },
+  {
+    "id": 5146,
+    "name": "L.A. Noire",
+    "hours": 21.9,
+    "genres": "Action, Adventure",
+    "submissions": 586,
+    "source_url": "https://howlongtobeat.com/game/5146"
+  },
+  {
+    "id": 29851,
+    "name": "Layers of Fear",
+    "hours": 3.4,
+    "genres": "First-Person, Horror",
+    "submissions": 691,
+    "source_url": "https://howlongtobeat.com/game/29851"
+  },
+  {
+    "id": 5209,
+    "name": "Left 4 Dead",
+    "hours": 7.0,
+    "genres": "First-Person, Shooter",
+    "submissions": 441,
+    "source_url": "https://howlongtobeat.com/game/5209"
+  },
+  {
+    "id": 5212,
+    "name": "Left 4 Dead 2",
+    "hours": 10.2,
+    "genres": "First-Person, Action, Horror, Shooter",
+    "submissions": 552,
+    "source_url": "https://howlongtobeat.com/game/5212"
+  },
+  {
+    "id": 14130,
+    "name": "LEGO Marvel Super Heroes",
+    "hours": 12.3,
+    "genres": "Action, Adventure",
+    "submissions": 418,
+    "source_url": "https://howlongtobeat.com/game/14130"
+  },
+  {
+    "id": 92418,
+    "name": "Lies of P",
+    "hours": 29.2,
+    "genres": "Third-Person, Action, Role-Playing",
+    "submissions": 557,
+    "source_url": "https://howlongtobeat.com/game/92418"
+  },
+  {
+    "id": 57795,
+    "name": "Life Is Strange 2",
+    "hours": 16.1,
+    "genres": "Third-Person, Adventure",
+    "submissions": 456,
+    "source_url": "https://howlongtobeat.com/game/57795"
+  },
+  {
+    "id": 46418,
+    "name": "Life Is Strange: Before the Storm",
+    "hours": 10.0,
+    "genres": "Third-Person, Adventure",
+    "submissions": 646,
+    "source_url": "https://howlongtobeat.com/game/46418"
+  },
+  {
+    "id": 89877,
+    "name": "Life Is Strange: True Colors",
+    "hours": 10.2,
+    "genres": "Third-Person, Adventure",
+    "submissions": 486,
+    "source_url": "https://howlongtobeat.com/game/89877"
+  },
+  {
+    "id": 5304,
+    "name": "Limbo",
+    "hours": 3.6,
+    "genres": "Side, Scrolling, Platform, Puzzle",
+    "submissions": 3224,
+    "source_url": "https://howlongtobeat.com/game/5304"
+  },
+  {
+    "id": 5322,
+    "name": "Little Inferno",
+    "hours": 3.4,
+    "genres": "Point-and-Click, Puzzle",
+    "submissions": 518,
+    "source_url": "https://howlongtobeat.com/game/5322"
+  },
+  {
+    "id": 39417,
+    "name": "Little Nightmares",
+    "hours": 3.6,
+    "genres": "Adventure, Platform, Puzzle",
+    "submissions": 1987,
+    "source_url": "https://howlongtobeat.com/game/39417"
+  },
+  {
+    "id": 69805,
+    "name": "Little Nightmares II",
+    "hours": 5.6,
+    "genres": "Adventure, Horror, Puzzle",
+    "submissions": 681,
+    "source_url": "https://howlongtobeat.com/game/69805"
+  },
+  {
+    "id": 5478,
+    "name": "Machinarium",
+    "hours": 5.1,
+    "genres": "Point-and-Click, Adventure",
+    "submissions": 445,
+    "source_url": "https://howlongtobeat.com/game/5478"
+  },
+  {
+    "id": 17610,
+    "name": "Mad Max",
+    "hours": 20.1,
+    "genres": "Third-Person, Action, Adventure, Shooter",
+    "submissions": 429,
+    "source_url": "https://howlongtobeat.com/game/17610"
+  },
+  {
+    "id": 5513,
+    "name": "Mafia II",
+    "hours": 12.1,
+    "genres": "Third-Person, Action, Adventure, Shooter",
+    "submissions": 1186,
+    "source_url": "https://howlongtobeat.com/game/5513"
+  },
+  {
+    "id": 78142,
+    "name": "Mafia II: Definitive Edition",
+    "hours": 11.2,
+    "genres": "Action, Adventure, Open World, Shooter",
+    "submissions": 580,
+    "source_url": "https://howlongtobeat.com/game/78142"
+  },
+  {
+    "id": 78135,
+    "name": "Mafia: Definitive Edition",
+    "hours": 10.6,
+    "genres": "Action, Adventure, Open World, Shooter",
+    "submissions": 2099,
+    "source_url": "https://howlongtobeat.com/game/78135"
+  },
+  {
+    "id": 5671,
+    "name": "Mark of the Ninja",
+    "hours": 8.4,
+    "genres": "Scrolling, Action, Tactical",
+    "submissions": 512,
+    "source_url": "https://howlongtobeat.com/game/5671"
+  },
+  {
+    "id": 67961,
+    "name": "Marvel's Avengers",
+    "hours": 12.5,
+    "genres": "Third-Person, Action, Adventure",
+    "submissions": 435,
+    "source_url": "https://howlongtobeat.com/game/67961"
+  },
+  {
+    "id": 72584,
+    "name": "Marvel's Guardians of the Galaxy",
+    "hours": 17.7,
+    "genres": "Third-Person, Incremental, Action, Adventure",
+    "submissions": 1382,
+    "source_url": "https://howlongtobeat.com/game/72584"
+  },
+  {
+    "id": 44852,
+    "name": "Marvel's Spider-Man",
+    "hours": 17.0,
+    "genres": "Third-Person, Action, Adventure, Open World",
+    "submissions": 1286,
+    "source_url": "https://howlongtobeat.com/game/44852"
+  },
+  {
+    "id": 79769,
+    "name": "Marvel's Spider-Man 2",
+    "hours": 17.2,
+    "genres": "Third-Person, Action, Adventure, Open World",
+    "submissions": 596,
+    "source_url": "https://howlongtobeat.com/game/79769"
+  },
+  {
+    "id": 70093,
+    "name": "Marvel's Spider-Man: Game of the Year Edition",
+    "hours": 17.9,
+    "genres": "Third-Person, Action, Adventure, Open World, Sandbox",
+    "submissions": 618,
+    "source_url": "https://howlongtobeat.com/game/70093"
+  },
+  {
+    "id": 79859,
+    "name": "Marvel's Spider-Man: Miles Morales",
+    "hours": 7.7,
+    "genres": "Third-Person, Action, Adventure, Open World",
+    "submissions": 1613,
+    "source_url": "https://howlongtobeat.com/game/79859"
+  },
+  {
+    "id": 5698,
+    "name": "Mass Effect",
+    "hours": 16.9,
+    "genres": "Third-Person, Action, Role-Playing, Shooter",
+    "submissions": 1693,
+    "source_url": "https://howlongtobeat.com/game/5698"
+  },
+  {
+    "id": 5699,
+    "name": "Mass Effect 2",
+    "hours": 24.5,
+    "genres": "Third-Person, Action, Role-Playing, Shooter",
+    "submissions": 918,
+    "source_url": "https://howlongtobeat.com/game/5699"
+  },
+  {
+    "id": 5707,
+    "name": "Mass Effect 3",
+    "hours": 24.4,
+    "genres": "Third-Person, Action, Role-Playing, Shooter",
+    "submissions": 597,
+    "source_url": "https://howlongtobeat.com/game/5707"
+  },
+  {
+    "id": 5736,
+    "name": "Max Payne",
+    "hours": 8.1,
+    "genres": "Third-Person, Shooter",
+    "submissions": 1204,
+    "source_url": "https://howlongtobeat.com/game/5736"
+  },
+  {
+    "id": 5738,
+    "name": "Max Payne 2: The Fall of Max Payne",
+    "hours": 6.2,
+    "genres": "Third-Person, Shooter",
+    "submissions": 976,
+    "source_url": "https://howlongtobeat.com/game/5738"
+  },
+  {
+    "id": 5739,
+    "name": "Max Payne 3",
+    "hours": 10.0,
+    "genres": "Third-Person, Shooter",
+    "submissions": 1702,
+    "source_url": "https://howlongtobeat.com/game/5739"
+  },
+  {
+    "id": 5776,
+    "name": "Medal of Honor",
+    "hours": 5.0,
+    "genres": "First-Person, Shooter",
+    "submissions": 609,
+    "source_url": "https://howlongtobeat.com/game/5776"
+  },
+  {
+    "id": 5905,
+    "name": "Metal Gear Rising: Revengeance",
+    "hours": 7.2,
+    "genres": "Action, Hack and Slash",
+    "submissions": 1801,
+    "source_url": "https://howlongtobeat.com/game/5905"
+  },
+  {
+    "id": 5908,
+    "name": "Metal Gear Solid",
+    "hours": 11.3,
+    "genres": "Third-Person, Action, Shooter, Stealth",
+    "submissions": 1517,
+    "source_url": "https://howlongtobeat.com/game/5908"
+  },
+  {
+    "id": 5910,
+    "name": "Metal Gear Solid 2: Sons of Liberty",
+    "hours": 13.2,
+    "genres": "Action, Adventure",
+    "submissions": 1239,
+    "source_url": "https://howlongtobeat.com/game/5910"
+  },
+  {
+    "id": 5913,
+    "name": "Metal Gear Solid 3: Snake Eater",
+    "hours": 15.8,
+    "genres": "Third-Person, Action, Adventure, Stealth",
+    "submissions": 1037,
+    "source_url": "https://howlongtobeat.com/game/5913"
+  },
+  {
+    "id": 17291,
+    "name": "Metal Gear Solid V: Ground Zeroes",
+    "hours": 1.9,
+    "genres": "Third-Person, Action, Adventure, Stealth",
+    "submissions": 1778,
+    "source_url": "https://howlongtobeat.com/game/17291"
+  },
+  {
+    "id": 5918,
+    "name": "Metal Gear Solid V: The Phantom Pain",
+    "hours": 45.6,
+    "genres": "Third-Person, Action, Open World, Stealth",
+    "submissions": 792,
+    "source_url": "https://howlongtobeat.com/game/5918"
+  },
+  {
+    "id": 5946,
+    "name": "Metro 2033",
+    "hours": 9.5,
+    "genres": "First-Person, Real-Time, Action, Adventure, Shooter, Survival",
+    "submissions": 1009,
+    "source_url": "https://howlongtobeat.com/game/5946"
+  },
+  {
+    "id": 20737,
+    "name": "Metro 2033 Redux",
+    "hours": 9.1,
+    "genres": "First-Person, Shooter",
+    "submissions": 1884,
+    "source_url": "https://howlongtobeat.com/game/20737"
+  },
+  {
+    "id": 46401,
+    "name": "Metro Exodus",
+    "hours": 15.7,
+    "genres": "First-Person, Horror, Shooter, Stealth, Survival",
+    "submissions": 716,
+    "source_url": "https://howlongtobeat.com/game/46401"
+  },
+  {
+    "id": 5947,
+    "name": "Metro: Last Light",
+    "hours": 10.3,
+    "genres": "First-Person, Shooter",
+    "submissions": 555,
+    "source_url": "https://howlongtobeat.com/game/5947"
+  },
+  {
+    "id": 20883,
+    "name": "Metro: Last Light Redux",
+    "hours": 9.8,
+    "genres": "First-Person, Shooter",
+    "submissions": 1308,
+    "source_url": "https://howlongtobeat.com/game/20883"
+  },
+  {
+    "id": 18006,
+    "name": "Middle-Earth: Shadow of Mordor",
+    "hours": 15.8,
+    "genres": "Third-Person, Action, Open World, Role-Playing",
+    "submissions": 1332,
+    "source_url": "https://howlongtobeat.com/game/18006"
+  },
+  {
+    "id": 44022,
+    "name": "Middle-Earth: Shadow of War",
+    "hours": 20.9,
+    "genres": "Action, Adventure",
+    "submissions": 404,
+    "source_url": "https://howlongtobeat.com/game/44022"
+  },
+  {
+    "id": 55140,
+    "name": "Minit",
+    "hours": 1.7,
+    "genres": "Top-Down, Scrolling, Action, Adventure",
+    "submissions": 554,
+    "source_url": "https://howlongtobeat.com/game/55140"
+  },
+  {
+    "id": 6085,
+    "name": "Mirror's Edge",
+    "hours": 6.1,
+    "genres": "First-Person, Platform",
+    "submissions": 2303,
+    "source_url": "https://howlongtobeat.com/game/6085"
+  },
+  {
+    "id": 19181,
+    "name": "Mirror's Edge: Catalyst",
+    "hours": 8.4,
+    "genres": "First-Person, Action, Open World, Platform, Shooter",
+    "submissions": 496,
+    "source_url": "https://howlongtobeat.com/game/19181"
+  },
+  {
+    "id": 83169,
+    "name": "Monster Hunter Rise",
+    "hours": 22.7,
+    "genres": "Third-Person, Action, Role-Playing",
+    "submissions": 464,
+    "source_url": "https://howlongtobeat.com/game/83169"
+  },
+  {
+    "id": 52493,
+    "name": "Monster Hunter: World",
+    "hours": 47.1,
+    "genres": "Action, Role-Playing",
+    "submissions": 711,
+    "source_url": "https://howlongtobeat.com/game/52493"
+  },
+  {
+    "id": 56787,
+    "name": "Moonlighter",
+    "hours": 14.0,
+    "genres": "Action, Role-Playing",
+    "submissions": 419,
+    "source_url": "https://howlongtobeat.com/game/56787"
+  },
+  {
+    "id": 62931,
+    "name": "Mortal Kombat 11",
+    "hours": 6.3,
+    "genres": "Fighting",
+    "submissions": 512,
+    "source_url": "https://howlongtobeat.com/game/62931"
+  },
+  {
+    "id": 21255,
+    "name": "Mortal Kombat X",
+    "hours": 5.7,
+    "genres": "Fighting",
+    "submissions": 541,
+    "source_url": "https://howlongtobeat.com/game/21255"
+  },
+  {
+    "id": 57520,
+    "name": "My Friend Pedro",
+    "hours": 4.1,
+    "genres": "Side, Scrolling, Action",
+    "submissions": 923,
+    "source_url": "https://howlongtobeat.com/game/57520"
+  },
+  {
+    "id": 21708,
+    "name": "Never Alone",
+    "hours": 3.1,
+    "genres": "Platform, Puzzle",
+    "submissions": 447,
+    "source_url": "https://howlongtobeat.com/game/21708"
+  },
+  {
+    "id": 6585,
+    "name": "Ni no Kuni: Wrath of the White Witch",
+    "hours": 44.1,
+    "genres": "Role-Playing",
+    "submissions": 504,
+    "source_url": "https://howlongtobeat.com/game/6585"
+  },
+  {
+    "id": 76406,
+    "name": "NieR Replicant ver.1.22474487139...",
+    "hours": 19.7,
+    "genres": "Third-Person, Action, Adventure, Hack and Slash, Role-Playing",
+    "submissions": 480,
+    "source_url": "https://howlongtobeat.com/game/76406"
+  },
+  {
+    "id": 38029,
+    "name": "NieR: Automata",
+    "hours": 21.2,
+    "genres": "Third-Person, Hack and Slash, Role-Playing",
+    "submissions": 1964,
+    "source_url": "https://howlongtobeat.com/game/38029"
+  },
+  {
+    "id": 20078,
+    "name": "Night in the Woods",
+    "hours": 8.9,
+    "genres": "Side, Adventure",
+    "submissions": 539,
+    "source_url": "https://howlongtobeat.com/game/20078"
+  },
+  {
+    "id": 53592,
+    "name": "Octopath Traveler",
+    "hours": 60.6,
+    "genres": "Side, Turn-Based, Role-Playing",
+    "submissions": 521,
+    "source_url": "https://howlongtobeat.com/game/53592"
+  },
+  {
+    "id": 85624,
+    "name": "OMORI",
+    "hours": 21.3,
+    "genres": "Horror, Role-Playing",
+    "submissions": 496,
+    "source_url": "https://howlongtobeat.com/game/85624"
+  },
+  {
+    "id": 36755,
+    "name": "Ori and the Blind Forest: Definitive Edition",
+    "hours": 9.0,
+    "genres": "Side, Scrolling, Platform",
+    "submissions": 1821,
+    "source_url": "https://howlongtobeat.com/game/36755"
+  },
+  {
+    "id": 46428,
+    "name": "Ori and the Will of the Wisps",
+    "hours": 11.9,
+    "genres": "Side, Scrolling, Action, Adventure, Platform",
+    "submissions": 766,
+    "source_url": "https://howlongtobeat.com/game/46428"
+  },
+  {
+    "id": 40789,
+    "name": "Orwell",
+    "hours": 4.6,
+    "genres": "Simulation",
+    "submissions": 564,
+    "source_url": "https://howlongtobeat.com/game/40789"
+  },
+  {
+    "id": 57527,
+    "name": "Outer Wilds",
+    "hours": 17.0,
+    "genres": "First-Person, Action, Adventure, Open World",
+    "submissions": 680,
+    "source_url": "https://howlongtobeat.com/game/57527"
+  },
+  {
+    "id": 13407,
+    "name": "Outlast",
+    "hours": 5.2,
+    "genres": "First-Person, Horror",
+    "submissions": 1161,
+    "source_url": "https://howlongtobeat.com/game/13407"
+  },
+  {
+    "id": 32537,
+    "name": "Outlast II",
+    "hours": 7.3,
+    "genres": "First-Person, Horror, Survival",
+    "submissions": 512,
+    "source_url": "https://howlongtobeat.com/game/32537"
+  },
+  {
+    "id": 26278,
+    "name": "Owlboy",
+    "hours": 8.2,
+    "genres": "Action, Adventure, Platform",
+    "submissions": 397,
+    "source_url": "https://howlongtobeat.com/game/26278"
+  },
+  {
+    "id": 33620,
+    "name": "Oxenfree",
+    "hours": 4.4,
+    "genres": "Adventure",
+    "submissions": 1190,
+    "source_url": "https://howlongtobeat.com/game/33620"
+  },
+  {
+    "id": 6916,
+    "name": "Papers, Please",
+    "hours": 5.0,
+    "genres": "Text, Point-and-Click, Real-Time, Puzzle, Simulation",
+    "submissions": 1013,
+    "source_url": "https://howlongtobeat.com/game/6916"
+  },
+  {
+    "id": 129805,
+    "name": "Persona 3 Reload",
+    "hours": 64.0,
+    "genres": "Third-Person, Turn-Based, Role-Playing, Simulation",
+    "submissions": 405,
+    "source_url": "https://howlongtobeat.com/game/129805"
+  },
+  {
+    "id": 6974,
+    "name": "Persona 4 Golden",
+    "hours": 67.5,
+    "genres": "Third-Person, Turn-Based, Role-Playing, Simulation",
+    "submissions": 1475,
+    "source_url": "https://howlongtobeat.com/game/6974"
+  },
+  {
+    "id": 66630,
+    "name": "Persona 5 Royal",
+    "hours": 101.3,
+    "genres": "Third-Person, Turn-Based, Action, Role-Playing, Simulation, Social",
+    "submissions": 1329,
+    "source_url": "https://howlongtobeat.com/game/66630"
+  },
+  {
+    "id": 72069,
+    "name": "Persona 5 Strikers",
+    "hours": 35.2,
+    "genres": "Third-Person, Action, Hack and Slash, Role-Playing",
+    "submissions": 393,
+    "source_url": "https://howlongtobeat.com/game/72069"
+  },
+  {
+    "id": 7026,
+    "name": "Phoenix Wright: Ace Attorney",
+    "hours": 18.2,
+    "genres": "Adventure, Visual Novel",
+    "submissions": 521,
+    "source_url": "https://howlongtobeat.com/game/7026"
+  },
+  {
+    "id": 93459,
+    "name": "Planet of Lana",
+    "hours": 4.6,
+    "genres": "Side, Adventure, Platform, Puzzle",
+    "submissions": 514,
+    "source_url": "https://howlongtobeat.com/game/93459"
+  },
+  {
+    "id": 7106,
+    "name": "Plants vs. Zombies",
+    "hours": 8.2,
+    "genres": "Tower Defense",
+    "submissions": 654,
+    "source_url": "https://howlongtobeat.com/game/7106"
+  },
+  {
+    "id": 33405,
+    "name": "Pony Island",
+    "hours": 2.4,
+    "genres": "Horror, Puzzle",
+    "submissions": 684,
+    "source_url": "https://howlongtobeat.com/game/33405"
+  },
+  {
+    "id": 7230,
+    "name": "Portal",
+    "hours": 3.1,
+    "genres": "First-Person, Platform, Puzzle",
+    "submissions": 7391,
+    "source_url": "https://howlongtobeat.com/game/7230"
+  },
+  {
+    "id": 7231,
+    "name": "Portal 2",
+    "hours": 8.6,
+    "genres": "First-Person, Platform, Puzzle",
+    "submissions": 5192,
+    "source_url": "https://howlongtobeat.com/game/7231"
+  },
+  {
+    "id": 44590,
+    "name": "Prey",
+    "hours": 16.2,
+    "genres": "First-Person, Action, Role-Playing, Sandbox, Shooter",
+    "submissions": 555,
+    "source_url": "https://howlongtobeat.com/game/44590"
+  },
+  {
+    "id": 7297,
+    "name": "Prince of Persia: The Sands of Time",
+    "hours": 8.7,
+    "genres": "Platform",
+    "submissions": 494,
+    "source_url": "https://howlongtobeat.com/game/7297"
+  },
+  {
+    "id": 7372,
+    "name": "Psychonauts",
+    "hours": 12.0,
+    "genres": "Third-Person, Platform",
+    "submissions": 716,
+    "source_url": "https://howlongtobeat.com/game/7372"
+  },
+  {
+    "id": 61442,
+    "name": "Psychonauts 2",
+    "hours": 15.0,
+    "genres": "Third-Person, Platform",
+    "submissions": 476,
+    "source_url": "https://howlongtobeat.com/game/61442"
+  },
+  {
+    "id": 7452,
+    "name": "Quake",
+    "hours": 5.4,
+    "genres": "First-Person, Shooter",
+    "submissions": 433,
+    "source_url": "https://howlongtobeat.com/game/7452"
+  },
+  {
+    "id": 19853,
+    "name": "Quantum Break",
+    "hours": 10.1,
+    "genres": "Third-Person, Action, Adventure, Shooter",
+    "submissions": 996,
+    "source_url": "https://howlongtobeat.com/game/19853"
+  },
+  {
+    "id": 7526,
+    "name": "Rage",
+    "hours": 11.1,
+    "genres": "First-Person, Shooter",
+    "submissions": 408,
+    "source_url": "https://howlongtobeat.com/game/7526"
+  },
+  {
+    "id": 79776,
+    "name": "Ratchet & Clank: Rift Apart",
+    "hours": 11.0,
+    "genres": "Action, Platform",
+    "submissions": 746,
+    "source_url": "https://howlongtobeat.com/game/79776"
+  },
+  {
+    "id": 12655,
+    "name": "Rayman Legends",
+    "hours": 10.0,
+    "genres": "Platform",
+    "submissions": 514,
+    "source_url": "https://howlongtobeat.com/game/12655"
+  },
+  {
+    "id": 7676,
+    "name": "Red Dead Redemption",
+    "hours": 17.8,
+    "genres": "Third-Person, Action, Open World, Sandbox, Shooter",
+    "submissions": 1105,
+    "source_url": "https://howlongtobeat.com/game/7676"
+  },
+  {
+    "id": 27100,
+    "name": "Red Dead Redemption 2",
+    "hours": 50.5,
+    "genres": "First-Person, Third-Person, Action, Adventure, Open World, Shooter",
+    "submissions": 2067,
+    "source_url": "https://howlongtobeat.com/game/27100"
+  },
+  {
+    "id": 7702,
+    "name": "Remember Me",
+    "hours": 9.9,
+    "genres": "Action, Adventure",
+    "submissions": 599,
+    "source_url": "https://howlongtobeat.com/game/7702"
+  },
+  {
+    "id": 68318,
+    "name": "Remnant: From the Ashes",
+    "hours": 13.3,
+    "genres": "Third-Person, Action, Adventure, Role-Playing, Shooter",
+    "submissions": 544,
+    "source_url": "https://howlongtobeat.com/game/68318"
+  },
+  {
+    "id": 57479,
+    "name": "Resident Evil 2",
+    "hours": 8.8,
+    "genres": "Third-Person, Horror, Survival",
+    "submissions": 3013,
+    "source_url": "https://howlongtobeat.com/game/57479"
+  },
+  {
+    "id": 7718,
+    "name": "Resident Evil 2",
+    "hours": 6.1,
+    "genres": "Adventure, Horror, Survival",
+    "submissions": 538,
+    "source_url": "https://howlongtobeat.com/game/7718"
+  },
+  {
+    "id": 72822,
+    "name": "Resident Evil 3",
+    "hours": 6.0,
+    "genres": "Third-Person, Horror, Survival",
+    "submissions": 2265,
+    "source_url": "https://howlongtobeat.com/game/72822"
+  },
+  {
+    "id": 7719,
+    "name": "Resident Evil 3: Nemesis",
+    "hours": 6.8,
+    "genres": "Survival",
+    "submissions": 495,
+    "source_url": "https://howlongtobeat.com/game/7719"
+  },
+  {
+    "id": 7720,
+    "name": "Resident Evil 4",
+    "hours": 15.6,
+    "genres": "Third-Person, Horror, Shooter, Survival",
+    "submissions": 2019,
+    "source_url": "https://howlongtobeat.com/game/7720"
+  },
+  {
+    "id": 108881,
+    "name": "Resident Evil 4",
+    "hours": 16.1,
+    "genres": "Third-Person, Horror, Shooter, Survival",
+    "submissions": 1205,
+    "source_url": "https://howlongtobeat.com/game/108881"
+  },
+  {
+    "id": 7722,
+    "name": "Resident Evil 5",
+    "hours": 12.1,
+    "genres": "Third-Person, Action, Horror, Shooter, Survival",
+    "submissions": 1142,
+    "source_url": "https://howlongtobeat.com/game/7722"
+  },
+  {
+    "id": 7725,
+    "name": "Resident Evil 6",
+    "hours": 21.0,
+    "genres": "Third-Person, Action, Adventure, Shooter",
+    "submissions": 774,
+    "source_url": "https://howlongtobeat.com/game/7725"
+  },
+  {
+    "id": 38051,
+    "name": "Resident Evil 7: Biohazard",
+    "hours": 9.3,
+    "genres": "First-Person, Horror, Survival",
+    "submissions": 2728,
+    "source_url": "https://howlongtobeat.com/game/38051"
+  },
+  {
+    "id": 80038,
+    "name": "Resident Evil Village",
+    "hours": 9.8,
+    "genres": "First-Person, Horror, Shooter, Survival",
+    "submissions": 1600,
+    "source_url": "https://howlongtobeat.com/game/80038"
+  },
+  {
+    "id": 33676,
+    "name": "Resident Evil Zero: HD Remaster",
+    "hours": 10.2,
+    "genres": "Third-Person, Survival, Survival Horror",
+    "submissions": 482,
+    "source_url": "https://howlongtobeat.com/game/33676"
+  },
+  {
+    "id": 22906,
+    "name": "Resident Evil: HD Remaster",
+    "hours": 11.2,
+    "genres": "Third-Person, Action, Adventure, Horror, Survival",
+    "submissions": 939,
+    "source_url": "https://howlongtobeat.com/game/22906"
+  },
+  {
+    "id": 7742,
+    "name": "Resident Evil: Revelations",
+    "hours": 8.4,
+    "genres": "Third-Person, Horror, Survival",
+    "submissions": 1058,
+    "source_url": "https://howlongtobeat.com/game/7742"
+  },
+  {
+    "id": 21258,
+    "name": "Resident Evil: Revelations 2",
+    "hours": 10.2,
+    "genres": "Third-Person, Real-Time, Horror, Survival",
+    "submissions": 485,
+    "source_url": "https://howlongtobeat.com/game/21258"
+  },
+  {
+    "id": 61882,
+    "name": "Return of the Obra Dinn",
+    "hours": 8.2,
+    "genres": "First-Person, Adventure, Puzzle",
+    "submissions": 584,
+    "source_url": "https://howlongtobeat.com/game/61882"
+  },
+  {
+    "id": 80102,
+    "name": "Returnal",
+    "hours": 19.0,
+    "genres": "Third-Person, Horror, Roguelike, Shooter",
+    "submissions": 571,
+    "source_url": "https://howlongtobeat.com/game/80102"
+  },
+  {
+    "id": 20064,
+    "name": "RiME",
+    "hours": 5.7,
+    "genres": "Third-Person, Adventure, Platform",
+    "submissions": 465,
+    "source_url": "https://howlongtobeat.com/game/20064"
+  },
+  {
+    "id": 19266,
+    "name": "Rise of the Tomb Raider",
+    "hours": 13.3,
+    "genres": "Third-Person, Action, Adventure",
+    "submissions": 1716,
+    "source_url": "https://howlongtobeat.com/game/19266"
+  },
+  {
+    "id": 85969,
+    "name": "Road 96",
+    "hours": 7.5,
+    "genres": "Adventure",
+    "submissions": 474,
+    "source_url": "https://howlongtobeat.com/game/85969"
+  },
+  {
+    "id": 11774,
+    "name": "Rogue Legacy",
+    "hours": 16.5,
+    "genres": "Action, Platform, Role-Playing",
+    "submissions": 579,
+    "source_url": "https://howlongtobeat.com/game/11774"
+  },
+  {
+    "id": 14345,
+    "name": "Ryse: Son of Rome",
+    "hours": 6.4,
+    "genres": "Action, Adventure",
+    "submissions": 1255,
+    "source_url": "https://howlongtobeat.com/game/14345"
+  },
+  {
+    "id": 12650,
+    "name": "Saints Row IV",
+    "hours": 15.3,
+    "genres": "Third-Person, Action, Adventure, Open World, Shooter",
+    "submissions": 486,
+    "source_url": "https://howlongtobeat.com/game/12650"
+  },
+  {
+    "id": 8076,
+    "name": "Saints Row: The Third",
+    "hours": 15.3,
+    "genres": "Third-Person, Action, Adventure, Open World, Shooter",
+    "submissions": 886,
+    "source_url": "https://howlongtobeat.com/game/8076"
+  },
+  {
+    "id": 69989,
+    "name": "Sayonara Wild Hearts",
+    "hours": 1.3,
+    "genres": "Music/Rhythm",
+    "submissions": 729,
+    "source_url": "https://howlongtobeat.com/game/69989"
+  },
+  {
+    "id": 77921,
+    "name": "Scarlet Nexus",
+    "hours": 25.2,
+    "genres": "Action, Role-Playing",
+    "submissions": 421,
+    "source_url": "https://howlongtobeat.com/game/77921"
+  },
+  {
+    "id": 76454,
+    "name": "Sea of Stars",
+    "hours": 28.0,
+    "genres": "Adventure, Role-Playing",
+    "submissions": 422,
+    "source_url": "https://howlongtobeat.com/game/76454"
+  },
+  {
+    "id": 57415,
+    "name": "Sekiro: Shadows Die Twice",
+    "hours": 30.0,
+    "genres": "Third-Person, Action, Adventure",
+    "submissions": 1035,
+    "source_url": "https://howlongtobeat.com/game/57415"
+  },
+  {
+    "id": 72854,
+    "name": "Senua's Saga: Hellblade II",
+    "hours": 7.1,
+    "genres": "Action, Adventure",
+    "submissions": 592,
+    "source_url": "https://howlongtobeat.com/game/72854"
+  },
+  {
+    "id": 51233,
+    "name": "Shadow of the Tomb Raider",
+    "hours": 12.6,
+    "genres": "Third-Person, Action, Adventure",
+    "submissions": 987,
+    "source_url": "https://howlongtobeat.com/game/51233"
+  },
+  {
+    "id": 8352,
+    "name": "Shadow Warrior",
+    "hours": 12.3,
+    "genres": "First-Person, Shooter",
+    "submissions": 569,
+    "source_url": "https://howlongtobeat.com/game/8352"
+  },
+  {
+    "id": 8379,
+    "name": "Shank",
+    "hours": 3.1,
+    "genres": "Beat em Up",
+    "submissions": 424,
+    "source_url": "https://howlongtobeat.com/game/8379"
+  },
+  {
+    "id": 8442,
+    "name": "Shin Megami Tensei: Persona 3 Portable",
+    "hours": 64.6,
+    "genres": "Turn-Based, Role-Playing, Simulation, Visual Novel",
+    "submissions": 502,
+    "source_url": "https://howlongtobeat.com/game/8442"
+  },
+  {
+    "id": 19512,
+    "name": "Shovel Knight",
+    "hours": 6.7,
+    "genres": "Side, Scrolling, Action, Platform",
+    "submissions": 965,
+    "source_url": "https://howlongtobeat.com/game/19512"
+  },
+  {
+    "id": 89091,
+    "name": "Sifu",
+    "hours": 8.0,
+    "genres": "Action",
+    "submissions": 492,
+    "source_url": "https://howlongtobeat.com/game/89091"
+  },
+  {
+    "id": 57149,
+    "name": "Signalis",
+    "hours": 9.2,
+    "genres": "Top-Down, Action, Horror, Puzzle, Survival",
+    "submissions": 674,
+    "source_url": "https://howlongtobeat.com/game/57149"
+  },
+  {
+    "id": 8523,
+    "name": "Silent Hill 2",
+    "hours": 8.2,
+    "genres": "Third-Person, Horror, Survival",
+    "submissions": 1023,
+    "source_url": "https://howlongtobeat.com/game/8523"
+  },
+  {
+    "id": 114905,
+    "name": "Silent Hill 2",
+    "hours": 15.8,
+    "genres": "Third-Person, Horror, Survival",
+    "submissions": 517,
+    "source_url": "https://howlongtobeat.com/game/114905"
+  },
+  {
+    "id": 8526,
+    "name": "Silent Hill 3",
+    "hours": 6.2,
+    "genres": "Third-Person, Real-Time, Horror, Survival",
+    "submissions": 565,
+    "source_url": "https://howlongtobeat.com/game/8526"
+  },
+  {
+    "id": 51390,
+    "name": "Slay the Spire",
+    "hours": 12.1,
+    "genres": "Card Game, Roguelike",
+    "submissions": 564,
+    "source_url": "https://howlongtobeat.com/game/51390"
+  },
+  {
+    "id": 8640,
+    "name": "Sleeping Dogs",
+    "hours": 15.3,
+    "genres": "Third-Person, Action, Shooter",
+    "submissions": 620,
+    "source_url": "https://howlongtobeat.com/game/8640"
+  },
+  {
+    "id": 23651,
+    "name": "Sleeping Dogs: Definitive Edition",
+    "hours": 14.3,
+    "genres": "Third-Person, Action, Adventure, Fighting, Open World",
+    "submissions": 604,
+    "source_url": "https://howlongtobeat.com/game/23651"
+  },
+  {
+    "id": 8679,
+    "name": "Sniper Elite V2",
+    "hours": 7.1,
+    "genres": "First-Person, Third-Person, Action, Shooter, Stealth, Tactical",
+    "submissions": 480,
+    "source_url": "https://howlongtobeat.com/game/8679"
+  },
+  {
+    "id": 22549,
+    "name": "Soma",
+    "hours": 9.1,
+    "genres": "First-Person, Action, Adventure",
+    "submissions": 834,
+    "source_url": "https://howlongtobeat.com/game/22549"
+  },
+  {
+    "id": 44859,
+    "name": "Sonic Forces",
+    "hours": 4.0,
+    "genres": "Third-Person, Action, Platform",
+    "submissions": 453,
+    "source_url": "https://howlongtobeat.com/game/44859"
+  },
+  {
+    "id": 8763,
+    "name": "Sonic Generations",
+    "hours": 5.5,
+    "genres": "Action, Adventure",
+    "submissions": 657,
+    "source_url": "https://howlongtobeat.com/game/8763"
+  },
+  {
+    "id": 38916,
+    "name": "Sonic Mania",
+    "hours": 5.7,
+    "genres": "Third-Person, Scrolling, Action, Platform",
+    "submissions": 614,
+    "source_url": "https://howlongtobeat.com/game/38916"
+  },
+  {
+    "id": 8784,
+    "name": "Sonic the Hedgehog",
+    "hours": 2.1,
+    "genres": "Adventure, Platform",
+    "submissions": 537,
+    "source_url": "https://howlongtobeat.com/game/8784"
+  },
+  {
+    "id": 8788,
+    "name": "Sonic the Hedgehog 2",
+    "hours": 2.4,
+    "genres": "Side, Scrolling, Platform",
+    "submissions": 478,
+    "source_url": "https://howlongtobeat.com/game/8788"
+  },
+  {
+    "id": 26801,
+    "name": "South Park: The Fractured But Whole",
+    "hours": 18.1,
+    "genres": "Role-Playing",
+    "submissions": 535,
+    "source_url": "https://howlongtobeat.com/game/26801"
+  },
+  {
+    "id": 8833,
+    "name": "South Park: The Stick of Truth",
+    "hours": 11.4,
+    "genres": "Side, Scrolling, Turn-Based, Role-Playing",
+    "submissions": 1283,
+    "source_url": "https://howlongtobeat.com/game/8833"
+  },
+  {
+    "id": 8898,
+    "name": "Spec Ops: The Line",
+    "hours": 6.1,
+    "genres": "Third-Person, Action, Shooter",
+    "submissions": 2632,
+    "source_url": "https://howlongtobeat.com/game/8898"
+  },
+  {
+    "id": 60145,
+    "name": "Star Wars Jedi: Fallen Order",
+    "hours": 17.2,
+    "genres": "Third-Person, Action, Adventure, Platform",
+    "submissions": 2527,
+    "source_url": "https://howlongtobeat.com/game/60145"
+  },
+  {
+    "id": 108358,
+    "name": "Star Wars Jedi: Survivor",
+    "hours": 20.3,
+    "genres": "Action, Adventure, Open World",
+    "submissions": 686,
+    "source_url": "https://howlongtobeat.com/game/108358"
+  },
+  {
+    "id": 45153,
+    "name": "Star Wars: Battlefront II",
+    "hours": 6.3,
+    "genres": "First-Person, Shooter",
+    "submissions": 816,
+    "source_url": "https://howlongtobeat.com/game/45153"
+  },
+  {
+    "id": 9111,
+    "name": "Star Wars: Knights of the Old Republic",
+    "hours": 29.2,
+    "genres": "Third-Person, Real-Time, Role-Playing",
+    "submissions": 435,
+    "source_url": "https://howlongtobeat.com/game/9111"
+  },
+  {
+    "id": 9119,
+    "name": "Star Wars: Republic Commando",
+    "hours": 8.8,
+    "genres": "First-Person, Action, Shooter",
+    "submissions": 412,
+    "source_url": "https://howlongtobeat.com/game/9119"
+  },
+  {
+    "id": 80090,
+    "name": "Star Wars: Squadrons",
+    "hours": 9.1,
+    "genres": "First-Person, Virtual Reality, Flight, Shooter, Simulation",
+    "submissions": 422,
+    "source_url": "https://howlongtobeat.com/game/80090"
+  },
+  {
+    "id": 9136,
+    "name": "Star Wars: The Force Unleashed II",
+    "hours": 5.2,
+    "genres": "Action",
+    "submissions": 447,
+    "source_url": "https://howlongtobeat.com/game/9136"
+  },
+  {
+    "id": 34716,
+    "name": "Stardew Valley",
+    "hours": 53.2,
+    "genres": "Top-Down, Role-Playing, Simulation",
+    "submissions": 507,
+    "source_url": "https://howlongtobeat.com/game/34716"
+  },
+  {
+    "id": 12740,
+    "name": "SteamWorld Dig",
+    "hours": 5.0,
+    "genres": "Platform",
+    "submissions": 865,
+    "source_url": "https://howlongtobeat.com/game/12740"
+  },
+  {
+    "id": 44062,
+    "name": "SteamWorld Dig 2",
+    "hours": 7.3,
+    "genres": "Third-Person, Multidirectional, Action, Platform, Roguelike",
+    "submissions": 517,
+    "source_url": "https://howlongtobeat.com/game/44062"
+  },
+  {
+    "id": 129960,
+    "name": "Still Wakes The Deep",
+    "hours": 4.7,
+    "genres": "Action, Horror",
+    "submissions": 403,
+    "source_url": "https://howlongtobeat.com/game/129960"
+  },
+  {
+    "id": 79790,
+    "name": "Stray",
+    "hours": 5.1,
+    "genres": "Third-Person, Adventure, Puzzle",
+    "submissions": 1840,
+    "source_url": "https://howlongtobeat.com/game/79790"
+  },
+  {
+    "id": 76482,
+    "name": "Streets of Rage 4",
+    "hours": 3.2,
+    "genres": "Beat em Up",
+    "submissions": 689,
+    "source_url": "https://howlongtobeat.com/game/76482"
+  },
+  {
+    "id": 23740,
+    "name": "Subnautica",
+    "hours": 30.1,
+    "genres": "First-Person, Open World",
+    "submissions": 554,
+    "source_url": "https://howlongtobeat.com/game/23740"
+  },
+  {
+    "id": 21278,
+    "name": "Sunset Overdrive",
+    "hours": 10.1,
+    "genres": "Third-Person, Action, Shooter",
+    "submissions": 491,
+    "source_url": "https://howlongtobeat.com/game/21278"
+  },
+  {
+    "id": 9389,
+    "name": "Super Meat Boy",
+    "hours": 9.4,
+    "genres": "Side, Platform",
+    "submissions": 572,
+    "source_url": "https://howlongtobeat.com/game/9389"
+  },
+  {
+    "id": 21723,
+    "name": "SUPERHOT",
+    "hours": 2.4,
+    "genres": "First-Person, Action, Puzzle, Shooter",
+    "submissions": 2001,
+    "source_url": "https://howlongtobeat.com/game/21723"
+  },
+  {
+    "id": 68378,
+    "name": "Superliminal",
+    "hours": 2.6,
+    "genres": "First-Person, Puzzle",
+    "submissions": 1472,
+    "source_url": "https://howlongtobeat.com/game/68378"
+  },
+  {
+    "id": 26799,
+    "name": "Tacoma",
+    "hours": 2.5,
+    "genres": "Adventure",
+    "submissions": 447,
+    "source_url": "https://howlongtobeat.com/game/26799"
+  },
+  {
+    "id": 22804,
+    "name": "Tales from the Borderlands",
+    "hours": 10.6,
+    "genres": "Third-Person, Point-and-Click, Adventure",
+    "submissions": 691,
+    "source_url": "https://howlongtobeat.com/game/22804"
+  },
+  {
+    "id": 68118,
+    "name": "Tales of Arise",
+    "hours": 40.9,
+    "genres": "Action, Role-Playing",
+    "submissions": 419,
+    "source_url": "https://howlongtobeat.com/game/68118"
+  },
+  {
+    "id": 33713,
+    "name": "Tales of Berseria",
+    "hours": 44.2,
+    "genres": "Role-Playing",
+    "submissions": 542,
+    "source_url": "https://howlongtobeat.com/game/33713"
+  },
+  {
+    "id": 89573,
+    "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+    "hours": 2.9,
+    "genres": "Beat em Up, Fighting",
+    "submissions": 990,
+    "source_url": "https://howlongtobeat.com/game/89573"
+  },
+  {
+    "id": 9705,
+    "name": "Terraria",
+    "hours": 52.0,
+    "genres": "Side, Action, Adventure, Open World, Role-Playing, Sandbox",
+    "submissions": 597,
+    "source_url": "https://howlongtobeat.com/game/9705"
+  },
+  {
+    "id": 57443,
+    "name": "The Awesome Adventures of Captain Spirit",
+    "hours": 1.6,
+    "genres": "Third-Person, Adventure",
+    "submissions": 590,
+    "source_url": "https://howlongtobeat.com/game/57443"
+  },
+  {
+    "id": 9769,
+    "name": "The Banner Saga",
+    "hours": 10.7,
+    "genres": "Isometric, Turn-Based, Role-Playing, Strategy/Tactical",
+    "submissions": 690,
+    "source_url": "https://howlongtobeat.com/game/9769"
+  },
+  {
+    "id": 30648,
+    "name": "The Beginner's Guide",
+    "hours": 1.5,
+    "genres": "First-Person, On-Rails, Interactive Art",
+    "submissions": 788,
+    "source_url": "https://howlongtobeat.com/game/30648"
+  },
+  {
+    "id": 85967,
+    "name": "The Callisto Protocol",
+    "hours": 10.1,
+    "genres": "Action, Adventure, Horror, Survival",
+    "submissions": 545,
+    "source_url": "https://howlongtobeat.com/game/85967"
+  },
+  {
+    "id": 84604,
+    "name": "The Dark Pictures: House of Ashes",
+    "hours": 6.0,
+    "genres": "Third-Person, Adventure, Horror",
+    "submissions": 498,
+    "source_url": "https://howlongtobeat.com/game/84604"
+  },
+  {
+    "id": 70075,
+    "name": "The Dark Pictures: Little Hope",
+    "hours": 5.1,
+    "genres": "Third-Person, Adventure, Horror",
+    "submissions": 606,
+    "source_url": "https://howlongtobeat.com/game/70075"
+  },
+  {
+    "id": 67361,
+    "name": "The Dark Pictures: Man of Medan",
+    "hours": 4.4,
+    "genres": "Third-Person, Adventure, Horror",
+    "submissions": 865,
+    "source_url": "https://howlongtobeat.com/game/67361"
+  },
+  {
+    "id": 9830,
+    "name": "The Darkness II",
+    "hours": 6.0,
+    "genres": "Action, Shooter",
+    "submissions": 789,
+    "source_url": "https://howlongtobeat.com/game/9830"
+  },
+  {
+    "id": 9859,
+    "name": "The Elder Scrolls V: Skyrim",
+    "hours": 34.7,
+    "genres": "First-Person, Third-Person, Action, Open World, Role-Playing",
+    "submissions": 1142,
+    "source_url": "https://howlongtobeat.com/game/9859"
+  },
+  {
+    "id": 14996,
+    "name": "The Elder Scrolls V: Skyrim - Special Edition",
+    "hours": 26.0,
+    "genres": "First-Person, Third-Person, Action, Open World, Role-Playing",
+    "submissions": 424,
+    "source_url": "https://howlongtobeat.com/game/14996"
+  },
+  {
+    "id": 9866,
+    "name": "The Evil Within",
+    "hours": 15.3,
+    "genres": "Third-Person, Horror, Shooter, Survival",
+    "submissions": 1060,
+    "source_url": "https://howlongtobeat.com/game/9866"
+  },
+  {
+    "id": 46568,
+    "name": "The Evil Within 2",
+    "hours": 13.3,
+    "genres": "Horror, Survival",
+    "submissions": 405,
+    "source_url": "https://howlongtobeat.com/game/46568"
+  },
+  {
+    "id": 109104,
+    "name": "The Last of Us Part I",
+    "hours": 14.3,
+    "genres": "Third-Person, Action, Adventure, Horror, Shooter, Survival",
+    "submissions": 793,
+    "source_url": "https://howlongtobeat.com/game/109104"
+  },
+  {
+    "id": 60176,
+    "name": "The Messenger",
+    "hours": 12.0,
+    "genres": "Side, Scrolling, Action, Platform",
+    "submissions": 424,
+    "source_url": "https://howlongtobeat.com/game/60176"
+  },
+  {
+    "id": 126308,
+    "name": "The Murder of Sonic the Hedgehog",
+    "hours": 2.3,
+    "genres": "Visual Novel",
+    "submissions": 440,
+    "source_url": "https://howlongtobeat.com/game/126308"
+  },
+  {
+    "id": 62935,
+    "name": "The Outer Worlds",
+    "hours": 13.3,
+    "genres": "First-Person, Role-Playing",
+    "submissions": 484,
+    "source_url": "https://howlongtobeat.com/game/62935"
+  },
+  {
+    "id": 105741,
+    "name": "The Quarry",
+    "hours": 9.1,
+    "genres": "Adventure, Horror",
+    "submissions": 825,
+    "source_url": "https://howlongtobeat.com/game/105741"
+  },
+  {
+    "id": 10153,
+    "name": "The Room",
+    "hours": 2.6,
+    "genres": "Point-and-Click, Puzzle",
+    "submissions": 614,
+    "source_url": "https://howlongtobeat.com/game/10153"
+  },
+  {
+    "id": 10162,
+    "name": "The Secret of Monkey Island",
+    "hours": 6.6,
+    "genres": "Point-and-Click, Adventure",
+    "submissions": 590,
+    "source_url": "https://howlongtobeat.com/game/10162"
+  },
+  {
+    "id": 14083,
+    "name": "The Stanley Parable",
+    "hours": 1.5,
+    "genres": "First-Person, Adventure",
+    "submissions": 1123,
+    "source_url": "https://howlongtobeat.com/game/14083"
+  },
+  {
+    "id": 10222,
+    "name": "The Swapper",
+    "hours": 5.1,
+    "genres": "Scrolling, Platform, Puzzle",
+    "submissions": 495,
+    "source_url": "https://howlongtobeat.com/game/10222"
+  },
+  {
+    "id": 22530,
+    "name": "The Talos Principle",
+    "hours": 15.7,
+    "genres": "First-Person, Adventure, Puzzle",
+    "submissions": 419,
+    "source_url": "https://howlongtobeat.com/game/22530"
+  },
+  {
+    "id": 21142,
+    "name": "The Vanishing of Ethan Carter",
+    "hours": 3.8,
+    "genres": "First-Person, Adventure",
+    "submissions": 548,
+    "source_url": "https://howlongtobeat.com/game/21142"
+  },
+  {
+    "id": 41484,
+    "name": "The Walking Dead: A New Frontier",
+    "hours": 7.6,
+    "genres": "Third-Person, Point-and-Click, Adventure, Horror",
+    "submissions": 519,
+    "source_url": "https://howlongtobeat.com/game/41484"
+  },
+  {
+    "id": 15343,
+    "name": "The Walking Dead: Season 2",
+    "hours": 9.1,
+    "genres": "Third-Person, Point-and-Click, Adventure, Horror",
+    "submissions": 1155,
+    "source_url": "https://howlongtobeat.com/game/15343"
+  },
+  {
+    "id": 47646,
+    "name": "The Walking Dead: The Final Season",
+    "hours": 9.9,
+    "genres": "Third-Person, Adventure",
+    "submissions": 402,
+    "source_url": "https://howlongtobeat.com/game/47646"
+  },
+  {
+    "id": 10267,
+    "name": "The Witcher",
+    "hours": 35.3,
+    "genres": "Third-Person, Action, Role-Playing",
+    "submissions": 833,
+    "source_url": "https://howlongtobeat.com/game/10267"
+  },
+  {
+    "id": 10268,
+    "name": "The Witcher 2: Assassins of Kings",
+    "hours": 24.1,
+    "genres": "Third-Person, Action, Hack and Slash, Role-Playing",
+    "submissions": 1085,
+    "source_url": "https://howlongtobeat.com/game/10268"
+  },
+  {
+    "id": 10270,
+    "name": "The Witcher 3: Wild Hunt",
+    "hours": 51.5,
+    "genres": "Third-Person, Action, Open World, Role-Playing",
+    "submissions": 2559,
+    "source_url": "https://howlongtobeat.com/game/10270"
+  },
+  {
+    "id": 40171,
+    "name": "The Witcher 3: Wild Hunt - Game of the Year Edition",
+    "hours": 56.4,
+    "genres": "Third-Person, Action, Adventure, Open World, Role-Playing",
+    "submissions": 473,
+    "source_url": "https://howlongtobeat.com/game/40171"
+  },
+  {
+    "id": 10273,
+    "name": "The Witness",
+    "hours": 17.1,
+    "genres": "First-Person, Adventure, Puzzle",
+    "submissions": 469,
+    "source_url": "https://howlongtobeat.com/game/10273"
+  },
+  {
+    "id": 14013,
+    "name": "The Wolf Among Us",
+    "hours": 8.6,
+    "genres": "Third-Person, Point-and-Click, Adventure",
+    "submissions": 1612,
+    "source_url": "https://howlongtobeat.com/game/14013"
+  },
+  {
+    "id": 10306,
+    "name": "Thomas Was Alone",
+    "hours": 3.5,
+    "genres": "Platform, Puzzle",
+    "submissions": 760,
+    "source_url": "https://howlongtobeat.com/game/10306"
+  },
+  {
+    "id": 38000,
+    "name": "Titanfall 2",
+    "hours": 6.1,
+    "genres": "First-Person, Action, Shooter",
+    "submissions": 2964,
+    "source_url": "https://howlongtobeat.com/game/38000"
+  },
+  {
+    "id": 10387,
+    "name": "To the Moon",
+    "hours": 4.1,
+    "genres": "Adventure, Role-Playing",
+    "submissions": 1643,
+    "source_url": "https://howlongtobeat.com/game/10387"
+  },
+  {
+    "id": 10469,
+    "name": "Tomb Raider",
+    "hours": 11.3,
+    "genres": "Third-Person, Action, Adventure, Platform, Shooter",
+    "submissions": 4601,
+    "source_url": "https://howlongtobeat.com/game/10469"
+  },
+  {
+    "id": 10477,
+    "name": "Tomb Raider: Legend",
+    "hours": 7.2,
+    "genres": "Action, Adventure",
+    "submissions": 408,
+    "source_url": "https://howlongtobeat.com/game/10477"
+  },
+  {
+    "id": 17617,
+    "name": "Transistor",
+    "hours": 6.0,
+    "genres": "Real-Time, Action, Role-Playing",
+    "submissions": 1316,
+    "source_url": "https://howlongtobeat.com/game/17617"
+  },
+  {
+    "id": 93913,
+    "name": "Trek to Yomi",
+    "hours": 5.0,
+    "genres": "Isometric, Side, Real-Time, Action, Adventure",
+    "submissions": 408,
+    "source_url": "https://howlongtobeat.com/game/93913"
+  },
+  {
+    "id": 10651,
+    "name": "Trine",
+    "hours": 6.1,
+    "genres": "Side, Platform, Puzzle",
+    "submissions": 720,
+    "source_url": "https://howlongtobeat.com/game/10651"
+  },
+  {
+    "id": 52546,
+    "name": "Tunic",
+    "hours": 12.3,
+    "genres": "Isometric, Action, Adventure",
+    "submissions": 484,
+    "source_url": "https://howlongtobeat.com/game/52546"
+  },
+  {
+    "id": 80383,
+    "name": "Turnip Boy Commits Tax Evasion",
+    "hours": 2.1,
+    "genres": "Action, Adventure",
+    "submissions": 432,
+    "source_url": "https://howlongtobeat.com/game/80383"
+  },
+  {
+    "id": 68152,
+    "name": "Twelve Minutes",
+    "hours": 4.3,
+    "genres": "Top-Down, Point-and-Click, Adventure, Puzzle",
+    "submissions": 710,
+    "source_url": "https://howlongtobeat.com/game/68152"
+  },
+  {
+    "id": 20077,
+    "name": "Uncharted 4: A Thief's End",
+    "hours": 15.1,
+    "genres": "Third-Person, Action, Adventure, Platform, Shooter",
+    "submissions": 3210,
+    "source_url": "https://howlongtobeat.com/game/20077"
+  },
+  {
+    "id": 41814,
+    "name": "Uncharted: The Lost Legacy",
+    "hours": 7.1,
+    "genres": "Third-Person, Shooter",
+    "submissions": 1401,
+    "source_url": "https://howlongtobeat.com/game/41814"
+  },
+  {
+    "id": 30385,
+    "name": "Undertale",
+    "hours": 6.9,
+    "genres": "Top-Down, Turn-Based, Role-Playing",
+    "submissions": 2245,
+    "source_url": "https://howlongtobeat.com/game/30385"
+  },
+  {
+    "id": 69666,
+    "name": "Unpacking",
+    "hours": 3.6,
+    "genres": "Puzzle",
+    "submissions": 981,
+    "source_url": "https://howlongtobeat.com/game/69666"
+  },
+  {
+    "id": 26763,
+    "name": "Unravel",
+    "hours": 6.1,
+    "genres": "Platform, Puzzle",
+    "submissions": 415,
+    "source_url": "https://howlongtobeat.com/game/26763"
+  },
+  {
+    "id": 57358,
+    "name": "Unravel Two",
+    "hours": 5.1,
+    "genres": "Platform, Puzzle",
+    "submissions": 442,
+    "source_url": "https://howlongtobeat.com/game/57358"
+  },
+  {
+    "id": 21924,
+    "name": "Until Dawn",
+    "hours": 8.0,
+    "genres": "Third-Person, Adventure, Horror",
+    "submissions": 1108,
+    "source_url": "https://howlongtobeat.com/game/21924"
+  },
+  {
+    "id": 66086,
+    "name": "Untitled Goose Game",
+    "hours": 3.0,
+    "genres": "Action, Adventure",
+    "submissions": 854,
+    "source_url": "https://howlongtobeat.com/game/66086"
+  },
+  {
+    "id": 19503,
+    "name": "Valiant Hearts: The Great War",
+    "hours": 6.6,
+    "genres": "Side, Scrolling, Adventure",
+    "submissions": 612,
+    "source_url": "https://howlongtobeat.com/game/19503"
+  },
+  {
+    "id": 10899,
+    "name": "Vanquish",
+    "hours": 6.1,
+    "genres": "Third-Person, Shooter",
+    "submissions": 1007,
+    "source_url": "https://howlongtobeat.com/game/10899"
+  },
+  {
+    "id": 112959,
+    "name": "Venba",
+    "hours": 1.5,
+    "genres": "Puzzle",
+    "submissions": 539,
+    "source_url": "https://howlongtobeat.com/game/112959"
+  },
+  {
+    "id": 10992,
+    "name": "VVVVVV",
+    "hours": 2.4,
+    "genres": "Side, Adventure, Platform",
+    "submissions": 705,
+    "source_url": "https://howlongtobeat.com/game/10992"
+  },
+  {
+    "id": 11050,
+    "name": "Warhammer 40,000: Space Marine",
+    "hours": 7.6,
+    "genres": "Third-Person, Shooter",
+    "submissions": 787,
+    "source_url": "https://howlongtobeat.com/game/11050"
+  },
+  {
+    "id": 101254,
+    "name": "Warhammer 40,000: Space Marine II",
+    "hours": 9.6,
+    "genres": "Third-Person, Shooter",
+    "submissions": 422,
+    "source_url": "https://howlongtobeat.com/game/101254"
+  },
+  {
+    "id": 11101,
+    "name": "Watch Dogs",
+    "hours": 19.6,
+    "genres": "Third-Person, Action, Adventure, Open World, Sandbox, Shooter, Stealth",
+    "submissions": 957,
+    "source_url": "https://howlongtobeat.com/game/11101"
+  },
+  {
+    "id": 37861,
+    "name": "Watch Dogs 2",
+    "hours": 19.4,
+    "genres": "Third-Person, Action, Open World, Shooter",
+    "submissions": 741,
+    "source_url": "https://howlongtobeat.com/game/37861"
+  },
+  {
+    "id": 45392,
+    "name": "What Remains of Edith Finch",
+    "hours": 2.1,
+    "genres": "Adventure",
+    "submissions": 2314,
+    "source_url": "https://howlongtobeat.com/game/45392"
+  },
+  {
+    "id": 46420,
+    "name": "Wolfenstein II: The New Colossus",
+    "hours": 10.8,
+    "genres": "First-Person, Shooter",
+    "submissions": 1501,
+    "source_url": "https://howlongtobeat.com/game/46420"
+  },
+  {
+    "id": 16886,
+    "name": "Wolfenstein: The New Order",
+    "hours": 11.4,
+    "genres": "First-Person, Shooter",
+    "submissions": 2676,
+    "source_url": "https://howlongtobeat.com/game/16886"
+  },
+  {
+    "id": 24484,
+    "name": "Wolfenstein: The Old Blood",
+    "hours": 5.9,
+    "genres": "First-Person, Shooter",
+    "submissions": 1480,
+    "source_url": "https://howlongtobeat.com/game/24484"
+  },
+  {
+    "id": 11397,
+    "name": "XCOM: Enemy Unknown",
+    "hours": 26.7,
+    "genres": "Turn-Based, Strategy/Tactical",
+    "submissions": 599,
+    "source_url": "https://howlongtobeat.com/game/11397"
+  },
+  {
+    "id": 43056,
+    "name": "Yakuza 0",
+    "hours": 31.5,
+    "genres": "Action, Adventure",
+    "submissions": 1268,
+    "source_url": "https://howlongtobeat.com/game/43056"
+  },
+  {
+    "id": 11423,
+    "name": "Yakuza 3",
+    "hours": 16.7,
+    "genres": "Action, Open World",
+    "submissions": 782,
+    "source_url": "https://howlongtobeat.com/game/11423"
+  },
+  {
+    "id": 11424,
+    "name": "Yakuza 4",
+    "hours": 20.7,
+    "genres": "Action, Adventure",
+    "submissions": 698,
+    "source_url": "https://howlongtobeat.com/game/11424"
+  },
+  {
+    "id": 42407,
+    "name": "Yakuza 6: The Song of Life",
+    "hours": 18.2,
+    "genres": "Third-Person, Action, Adventure, Beat em Up, Role-Playing",
+    "submissions": 424,
+    "source_url": "https://howlongtobeat.com/game/42407"
+  },
+  {
+    "id": 39484,
+    "name": "Yakuza Kiwami",
+    "hours": 17.9,
+    "genres": "Third-Person, Action, Adventure",
+    "submissions": 991,
+    "source_url": "https://howlongtobeat.com/game/39484"
+  },
+  {
+    "id": 49620,
+    "name": "Yakuza Kiwami 2",
+    "hours": 18.5,
+    "genres": "Action, Adventure, Beat em Up",
+    "submissions": 594,
+    "source_url": "https://howlongtobeat.com/game/49620"
+  },
+  {
+    "id": 71931,
+    "name": "Yakuza: Like a Dragon",
+    "hours": 45.6,
+    "genres": "Third-Person, Turn-Based, Action, Adventure, Role-Playing",
+    "submissions": 437,
+    "source_url": "https://howlongtobeat.com/game/71931"
+  },
+  {
+    "id": 6725,
+    "name": "ŌKAMI",
+    "hours": 33.2,
+    "genres": "Third-Person, Action, Adventure",
+    "submissions": 527,
+    "source_url": "https://howlongtobeat.com/game/6725"
+  }
+]
