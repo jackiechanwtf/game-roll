@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Game Roll — во что играем?</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="/static/style.css">
+  <script src="/static/app.js" defer></script>
+</head>
+<body>
+  <header class="topbar"><a class="brand" href="/">Game Roll<span>для друзей</span></a><a href="/docs">API / docs</a></header>
+  <main>
+    <div class="intro"><h1>Во что играем?</h1><p>Случайная игра, два переброса и общая история прохождений.</p></div>
+    <p id="notice" role="status" aria-live="polite" hidden></p>
+    <section class="panel" aria-labelledby="your-game">
+      <div class="section-heading"><h2 id="your-game">Твоя игра</h2><span id="who"></span></div>
+      <form id="name-form" class="name-form">
+        <div><label for="player-name">Как тебя зовут?</label><input id="player-name" list="player-names" placeholder="Имя или ник" maxlength="40" required autocomplete="nickname"><datalist id="player-names"></datalist></div>
+        <button type="submit">Выбрать имя</button>
+      </form>
+      <div id="game-area" hidden></div>
+    </section>
+    <section class="panel history" aria-labelledby="history-title">
+      <div class="section-heading"><h2 id="history-title">Кто во что играет</h2><button id="refresh" class="subtle" type="button">Обновить</button></div>
+      <div class="filters"><label>Игрок<select id="player-filter"><option value="">Все друзья</option></select></label><label>Статус<select id="status-filter"><option value="">Все статусы</option><option value="playing">Прохожу</option><option value="completed">Пройдено</option><option value="dropped">Брошено</option></select></label><span id="updated"></span></div>
+      <p id="empty-history" class="empty">Здесь появятся принятые игры и комментарии друзей.</p>
+      <div class="table-wrap" id="history-wrap" hidden><table><thead><tr><th>Игрок</th><th>Игра</th><th>Сюжет</th><th>Статус</th><th>Комментарий</th></tr></thead><tbody id="history-body"></tbody></table></div>
+    </section>
+    <p class="rules">Первую или вторую игру можно принять или перебросить. Третья записывается автоматически. Следующий выбор — после завершения текущей игры. Уже выпавшие тебе игры не повторяются.</p>
+  </main>
+  <footer><span id="catalogue-size">Каталог ПК-игр</span><span>Время основного сюжета · <a href="https://www.kaggle.com/datasets/zaireali/howlongtobeat-games-scraper-2162025" target="_blank" rel="noopener noreferrer">HowLongToBeat / Zaire Ali, 02.2025</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></span></footer>
+</body>
+</html>

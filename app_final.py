@@ -9,6 +9,8 @@ from typing import Literal
 
 from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException, Query
+from fastapi.responses import FileResponse
+from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, ConfigDict, Field
 
 from game_service import accept, active_assignment, draw, find, next_id, now, pending_round
@@ -37,6 +39,10 @@ class FinishInput(BaseModel):
     comment: str = Field(default="", max_length=500)
 
 
+class ChoiceInput(BaseModel):
+    attempt: int = Field(ge=1, le=3)
+
+
 def create_app(data_file=None, games=None):
     """Отдельный файл и маленький каталог позволяют изолировать каждый тест."""
 
@@ -54,6 +60,7 @@ def create_app(data_file=None, games=None):
         logger.info("Service stopped")
 
     app = FastAPI(title=os.getenv("APP_NAME", "Game Roll"), version=VERSION, lifespan=lifespan)
+    app.mount("/static", StaticFiles(directory=BASE_DIR / "static"), name="static")
 
     @app.middleware("http")
     async def request_log(request, call_next):
@@ -63,7 +70,7 @@ def create_app(data_file=None, games=None):
 
     @app.get("/")
     def home():
-        return {"message": "Game Roll работает", "docs": "/docs"}
+        return FileResponse(BASE_DIR / "static" / "index.html")
 
     @app.get("/health")
     def health():
@@ -116,18 +123,23 @@ def create_app(data_file=None, games=None):
             return draw(data, player, round_, app.state.games)
 
     @app.post("/rolls/{round_id}/reroll")
-    def reroll(round_id: int):
+    def reroll(round_id: int, body: ChoiceInput):
         with app.state.storage.transaction() as data:
             round_ = find(data["rounds"], round_id, "Розыгрыш")
             if round_["accepted"]:
                 raise HTTPException(status_code=409, detail="Игра уже принята. Переброс недоступен.")
+            if body.attempt != round_["attempt"]:
+                raise HTTPException(status_code=409, detail="Попытка уже изменилась в другой вкладке. Данные обновлены.")
             player = find(data["players"], round_["player_id"], "Игрок")
             return draw(data, player, round_, app.state.games)
 
     @app.post("/rolls/{round_id}/accept")
-    def accept_game(round_id: int):
+    def accept_game(round_id: int, body: ChoiceInput):
         with app.state.storage.transaction() as data:
-            return accept(data, find(data["rounds"], round_id, "Розыгрыш"))
+            round_ = find(data["rounds"], round_id, "Розыгрыш")
+            if body.attempt != round_["attempt"]:
+                raise HTTPException(status_code=409, detail="Попытка уже изменилась в другой вкладке. Данные обновлены.")
+            return accept(data, round_)
 
     @app.get("/assignments")
     def list_assignments():
