@@ -162,5 +162,4 @@ $("refresh").onclick = () => action(async () => {});
 $("player-filter").onchange = renderHistory;
 $("status-filter").onchange = renderHistory;
 refresh().catch(() => notice("Не удалось загрузить данные. Проверь связь с сервером и нажми «Обновить»."));
-api("/games").then((games) => { $("catalogue-size").textContent = `${games.length} ПК-игр в каталоге`; }).catch(() => {});
 setInterval(() => { if (!busy) refresh().catch(() => notice("Нет связи с сервером. История обновится после восстановления связи.")); }, 15000);
