@@ -3,6 +3,7 @@
 from concurrent.futures import ThreadPoolExecutor
 import json
 import logging
+import re
 
 from fastapi.testclient import TestClient
 import pytest
@@ -51,6 +52,27 @@ def test_catalogue_filter(client):
     games = client.get("/games", params={"max_hours": 6}).json()
     assert [game["id"] for game in games] == [1, 2, 3]
     assert client.get("/games", params={"max_hours": 1}).json() == []
+
+
+def test_browser_gets_new_asset_url_after_file_changes(tmp_path, games, monkeypatch):
+    static = tmp_path / "static"
+    static.mkdir()
+    (static / "index.html").write_text('<link href="/static/style.css"><script src="/static/app.js"></script>')
+    (static / "style.css").write_text("body { color: green; }")
+    (static / "app.js").write_text('console.log("Game Roll");')
+    monkeypatch.setattr("app_final.BASE_DIR", tmp_path)
+    with TestClient(create_app(tmp_path / "state.json", games)) as client:
+        before = client.get("/")
+        assert before.headers["cache-control"] == "no-cache"
+        old_urls = re.findall(r'/static/[^"?]+\?v=[^" ]+', before.text)
+        assert len(old_urls) == 2
+        assert client.get(old_urls[0]).headers["cache-control"] == "no-cache"
+        (static / "style.css").write_text("body { color: blue; }")
+        after = client.get("/")
+        new_urls = re.findall(r'/static/[^"?]+\?v=[^" ]+', after.text)
+        assert new_urls[0] != old_urls[0]
+        assert new_urls[1] == old_urls[1]
+        assert client.get(new_urls[0]).text == "body { color: blue; }"
 
 
 @pytest.mark.parametrize("name", ["", "   ", "x" * 41])

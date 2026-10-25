@@ -1,6 +1,7 @@
 """FastAPI-маршруты Game Roll. Запуск: python -m uvicorn app_final:app."""
 
 from contextlib import asynccontextmanager
+from hashlib import sha256
 import json
 import logging
 import os
@@ -9,7 +10,7 @@ from typing import Literal
 
 from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException, Query
-from fastapi.responses import FileResponse
+from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, ConfigDict, Field
 
@@ -69,12 +70,19 @@ def create_app(data_file=None, games=None):
     @app.middleware("http")
     async def request_log(request, call_next):
         response = await call_next(request)
+        if request.url.path == "/" or request.url.path.startswith("/static/"):
+            response.headers["Cache-Control"] = "no-cache"
         logger.info("%s %s status=%s", request.method, request.url.path, response.status_code)
         return response
 
     @app.get("/")
     def home():
-        return FileResponse(BASE_DIR / "static" / "index.html")
+        page = (BASE_DIR / "static" / "index.html").read_text(encoding="utf-8")
+        # При изменении файла меняется ссылка, и браузер загружает новую версию.
+        for name in ("style.css", "app.js"):
+            version = sha256((BASE_DIR / "static" / name).read_bytes()).hexdigest()[:12]
+            page = page.replace(f"/static/{name}", f"/static/{name}?v={version}")
+        return HTMLResponse(page)
 
     @app.get("/health")
     def health():
