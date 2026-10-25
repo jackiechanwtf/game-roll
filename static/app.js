@@ -6,6 +6,7 @@ let playerId = Number(localStorage.getItem("game-roll-player")) || null;
 let state = null;
 let assignments = [];
 let catalogue = [];
+let playerNames = [];
 let busy = false;
 
 function notice(message = "") {
@@ -81,6 +82,29 @@ async function action(work, reveal = false) {
 }
 
 function hours(value) { return `${value.toLocaleString("ru-RU")} ч`; }
+
+function renderPlayerNames(players) {
+  const names = players.map((player) => player.name);
+  // Не перестраиваем открытый список при каждом фоновом обновлении.
+  if (JSON.stringify(names) === JSON.stringify(playerNames)) return;
+  playerNames = names;
+  $("player-names").replaceChildren();
+  $("no-players").hidden = names.length > 0;
+  for (const name of names) {
+    const item = document.createElement("li");
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "player-option";
+    button.textContent = name;
+    button.onclick = () => {
+      $("player-name").value = name;
+      $("player-picker").open = false;
+      $("player-name").focus();
+    };
+    item.append(button);
+    $("player-names").append(item);
+  }
+}
 
 function describeGame(game) {
   if (game.description) return game.description;
@@ -233,11 +257,10 @@ async function refresh() {
   assignments = history;
   const filter = $("player-filter").value;
   $("player-filter").replaceChildren(new Option("Все друзья", ""));
-  $("player-names").replaceChildren();
   for (const player of players) {
     $("player-filter").append(new Option(player.name, player.id));
-    $("player-names").append(new Option(player.name, player.name));
   }
+  renderPlayerNames(players);
   $("player-filter").value = filter;
   renderHistory();
   if (playerId) {
@@ -259,12 +282,27 @@ $("name-form").onsubmit = (event) => {
   event.preventDefault();
   const name = $("player-name").value.trim();
   if (!name) { notice("Введи имя или ник."); return; }
+  $("player-picker").open = false;
   action(async () => {
     const player = await api("/players", "POST", { name });
     playerId = player.id;
     localStorage.setItem("game-roll-player", playerId);
   });
 };
+const namePicker = document.querySelector(".name-picker");
+namePicker.addEventListener("keydown", (event) => {
+  if (event.key === "Escape" && $("player-picker").open) {
+    event.preventDefault();
+    $("player-picker").open = false;
+    $("player-picker").querySelector("summary").focus();
+  }
+});
+namePicker.addEventListener("focusout", (event) => {
+  if (!namePicker.contains(event.relatedTarget)) $("player-picker").open = false;
+});
+document.addEventListener("click", (event) => {
+  if (!namePicker.contains(event.target)) $("player-picker").open = false;
+});
 $("refresh").onclick = () => action(async () => {});
 $("player-filter").onchange = renderHistory;
 $("status-filter").onchange = renderHistory;

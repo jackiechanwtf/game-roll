@@ -21,8 +21,17 @@
       <form id="name-form" class="name-form">
         <div>
           <label for="player-name">Как тебя зовут?</label>
-          <input id="player-name" list="player-names" placeholder="Имя или ник" maxlength="40" required autocomplete="nickname">
-          <datalist id="player-names"></datalist>
+          <div class="name-picker">
+            <input id="player-name" placeholder="Имя или ник" maxlength="40" required autocomplete="off">
+            <details id="player-picker" class="player-picker">
+              <summary>Игроки</summary>
+              <div class="players-menu">
+                <p class="menu-heading">Сохранённые имена</p>
+                <ul id="player-names"></ul>
+                <p id="no-players" class="menu-empty">Пока никого нет. Введи своё имя.</p>
+              </div>
+            </details>
+          </div>
         </div>
         <button type="submit">Выбрать имя</button>
       </form>
