@@ -119,13 +119,14 @@ def test_finish_with_comment_then_roll_again_without_repeats(client, status):
     first = roll(client, player_id)
     second = client.post(f"/rolls/{first['id']}/reroll", json={"attempt": 1}).json()
     accepted = client.post(f"/rolls/{first['id']}/accept", json={"attempt": 2}).json()
-    response = client.patch(f"/assignments/{accepted['id']}", json={"status": status, "comment": "  Хорошая игра!  "})
+    response = client.patch(f"/assignments/{accepted['id']}", json={"status": status, "spent_hours": 2.5, "comment": "  Хорошая игра!  "})
     assert response.status_code == 200
     next_offer = roll(client, player_id)
     assert next_offer["game"]["id"] not in (first["game"]["id"], second["game"]["id"])
     history = client.get("/assignments").json()
     assert history[0]["status"] == status
     assert history[0]["comment"] == "Хорошая игра!"
+    assert history[0]["spent_hours"] == 2.5
     assert history[0]["player_name"] == "Тимофей"
 
 
@@ -153,9 +154,10 @@ def test_state_survives_server_restart(tmp_path, games):
         last = second.post(f"/rolls/{offer['id']}/reroll", json={"attempt": 2}).json()
         assert last["accepted"] is True
         assignment = second.get("/assignments").json()[0]
-        second.patch(f"/assignments/{assignment['id']}", json={"status": "completed", "comment": "История сохранится"})
+        second.patch(f"/assignments/{assignment['id']}", json={"status": "completed", "spent_hours": 3.5, "comment": "История сохранится"})
     with TestClient(create_app(path, games)) as third:
         assert third.get("/assignments").json()[0]["comment"] == "История сохранится"
+        assert third.get("/assignments").json()[0]["spent_hours"] == 3.5
 
 
 def test_simultaneous_start_requests_create_one_round(client):
@@ -169,8 +171,34 @@ def test_simultaneous_start_requests_create_one_round(client):
 def test_unknown_records_and_invalid_status(client):
     assert client.get("/players/999/state").status_code == 404
     assert client.post("/rolls/999/accept", json={"attempt": 1}).status_code == 404
-    assert client.patch("/assignments/999", json={"status": "completed"}).status_code == 404
+    assert client.patch("/assignments/999", json={"status": "completed", "spent_hours": 1}).status_code == 404
     assert client.patch("/assignments/999", json={"status": "playing"}).status_code == 422
+
+
+@pytest.mark.parametrize("spent_hours", [-1, 10001, "nan", "inf", "abc", None])
+def test_invalid_spent_hours_does_not_finish_game(client, spent_hours):
+    player_id = enter(client)
+    offer = roll(client, player_id)
+    assignment = client.post(f"/rolls/{offer['id']}/accept", json={"attempt": 1}).json()
+    response = client.patch(f"/assignments/{assignment['id']}",
+                            json={"status": "completed", "spent_hours": spent_hours})
+    assert response.status_code == 422
+    assert client.get(f"/players/{player_id}/state").json()["assignment"]["status"] == "playing"
+    assert client.get("/assignments").json()[0]["spent_hours"] is None
+
+
+def test_finish_requires_hours_and_allows_zero_for_dropped_game(client):
+    player_id = enter(client)
+    offer = roll(client, player_id)
+    assignment = client.post(f"/rolls/{offer['id']}/accept", json={"attempt": 1}).json()
+    path = f"/assignments/{assignment['id']}"
+    assert client.patch(path, json={"status": "dropped"}).status_code == 422
+    response = client.patch(path, json={"status": "dropped", "spent_hours": 0})
+    assert response.status_code == 200
+    assert response.json()["spent_hours"] == 0
+    # Повторное сохранение не должно менять уже записанный результат.
+    assert client.patch(path, json={"status": "completed", "spent_hours": 5}).status_code == 409
+    assert client.get("/assignments").json()[0]["spent_hours"] == 0
 
 
 def test_environment_and_logs(tmp_path, games, monkeypatch, caplog):

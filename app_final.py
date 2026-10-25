@@ -36,6 +36,7 @@ class RollInput(BaseModel):
 class FinishInput(BaseModel):
     model_config = ConfigDict(str_strip_whitespace=True)
     status: Literal["completed", "dropped"]
+    spent_hours: float = Field(ge=0, le=10000, allow_inf_nan=False)
     comment: str = Field(default="", max_length=500)
 
 
@@ -156,7 +157,8 @@ def create_app(data_file=None, games=None):
             item = find(data["assignments"], assignment_id, "Запись")
             if item["status"] != "playing":
                 raise HTTPException(status_code=409, detail="Эта игра уже завершена.")
-            item.update(status=body.status, comment=body.comment, updated_at=now())
+            item.update(status=body.status, spent_hours=body.spent_hours,
+                        comment=body.comment, updated_at=now())
             logger.info("Game finished: player=%s game=%s status=%s", item["player_id"], item["game"]["id"], item["status"])
             return item
 

@@ -45,7 +45,8 @@ def accept(data, round_):
     assignment = {
         "id": next_id(data["assignments"]), "round_id": round_["id"],
         "player_id": round_["player_id"], "game": round_["game"],
-        "status": "playing", "comment": "", "created_at": now(), "updated_at": now(),
+        "status": "playing", "spent_hours": None, "comment": "",
+        "created_at": now(), "updated_at": now(),
     }
     data["assignments"].append(assignment)
     round_["accepted"] = True
