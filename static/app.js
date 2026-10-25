@@ -67,21 +67,21 @@ function renderGame() {
   const current = state.assignment;
   const offer = state.round;
   if (!current && !offer) {
-    $("game-area").innerHTML = `<div class="pick-options"><label for="max-hours">Время на основной сюжет<select id="max-hours"><option value="5">До 5 часов</option><option value="10">До 10 часов</option><option value="20" selected>До 20 часов</option><option value="40">До 40 часов</option><option value="">Любая длительность</option></select></label><button id="roll" type="button">Выбрать игру</button></div><p class="hint">Только ПК. Уже выпавшие тебе игры исключаются из выбора.</p>`;
+    $("game-area").innerHTML = `<div class="pick-options"><label for="max-hours">Время на основной сюжет<select id="max-hours"><option value="5">До 5 часов</option><option value="10">До 10 часов</option><option value="20" selected>До 20 часов</option><option value="40">До 40 часов</option><option value="">Любая длительность</option></select></label><button id="roll" type="button">Выбрать игру</button></div>`;
     $("roll").onclick = () => action(async () => {
       await api("/rolls", "POST", { player_id: playerId, max_hours: $("max-hours").value ? Number($("max-hours").value) : null });
     });
     return;
   }
-  $("game-area").innerHTML = `<div class="offer"><p class="eyebrow" id="attempt-label"></p><h3 id="game-name"></h3><div class="game-meta"><span id="game-hours"></span><span id="game-genres"></span><a id="game-source" target="_blank" rel="noopener noreferrer">Подробнее об игре ↗</a></div><div id="choice-controls"></div></div>`;
+  $("game-area").innerHTML = `<div class="offer"><p class="eyebrow" id="attempt-label"></p><h3 id="game-name"></h3><div class="game-meta"><span id="game-hours"></span><span id="game-genres"></span><a id="game-source" target="_blank" rel="noopener noreferrer">Об игре</a></div><div id="choice-controls"></div></div>`;
   const game = (current || offer).game;
   $("game-name").textContent = game.name;
   $("game-hours").textContent = `Основной сюжет: ≈ ${hours(game.hours)}`;
   $("game-genres").textContent = game.genres;
   $("game-source").href = game.source_url;
   if (current) {
-    $("attempt-label").textContent = "Твоя текущая игра · Прохожу";
-    $("choice-controls").innerHTML = `<label for="comment">Комментарий для друзей<textarea id="comment" rows="2" maxlength="500" placeholder="Как тебе игра? Почему прошёл или бросил?"></textarea></label><div class="actions"><button id="complete" type="button">Пройдено</button><button id="drop" class="danger" type="button">Брошено</button></div><p class="hint">После завершения появится возможность выбрать следующую игру.</p>`;
+    $("attempt-label").textContent = "Прохожу";
+    $("choice-controls").innerHTML = `<label for="comment">Комментарий<textarea id="comment" rows="2" maxlength="500" placeholder="Можно написать пару слов об игре"></textarea></label><div class="actions"><button id="complete" type="button">Прошёл</button><button id="drop" class="secondary" type="button">Бросил</button></div>`;
     $("comment").value = current.comment;
     for (const [id, status] of [["complete", "completed"], ["drop", "dropped"]]) {
       $(id).onclick = () => action(async () => {
@@ -91,11 +91,11 @@ function renderGame() {
   } else {
     $("attempt-label").textContent = `Попытка ${offer.attempt} из 3`;
     $("choice-controls").innerHTML = `<div class="actions"><button id="accept" type="button">Буду проходить</button><button id="reroll" class="secondary" type="button">Перебросить</button></div><p class="hint" id="roll-hint"></p>`;
-    $("roll-hint").textContent = offer.attempt === 1 ? "Осталось 2 переброса. Третья игра принимается автоматически." : "Остался 1 переброс. Следующая игра принимается автоматически.";
+    $("roll-hint").textContent = offer.attempt === 1 ? "Осталось 2 переброса." : "Последний переброс. Следующая игра запишется автоматически.";
     $("accept").onclick = () => action(() => api(`/rolls/${offer.id}/accept`, "POST", { attempt: offer.attempt }));
     $("reroll").onclick = () => action(async () => {
       const next = await api(`/rolls/${offer.id}/reroll`, "POST", { attempt: offer.attempt });
-      if (next.accepted) notice("Третья попытка: игра принята и записана в общую таблицу.");
+      if (next.accepted) notice("Третья игра записана в таблицу.");
     });
   }
 }
@@ -105,10 +105,10 @@ function renderHistory() {
   $("history-body").replaceChildren();
   $("history-wrap").hidden = rows.length === 0;
   $("empty-history").hidden = rows.length > 0;
-  $("empty-history").textContent = assignments.length ? "По выбранным фильтрам записей нет." : "Здесь появятся принятые игры и комментарии друзей.";
+  $("empty-history").textContent = assignments.length ? "По этим фильтрам записей нет." : "Пока никто не выбрал игру.";
   for (const item of rows) {
     const tr = document.createElement("tr");
-    for (const value of [item.player_name, item.game.name, `≈ ${hours(item.game.hours)}`, "", item.comment || "—"]) {
+    for (const value of [item.player_name, item.game.name, `≈ ${hours(item.game.hours)}`, "", item.comment || "Без комментария"]) {
       const td = document.createElement("td");
       td.textContent = value;
       tr.append(td);
