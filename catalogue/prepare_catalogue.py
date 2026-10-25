@@ -38,7 +38,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("source", type=Path, help="hltb_data.csv или ZIP с этим файлом")
     parser.add_argument("--limit", type=int, default=500)
-    parser.add_argument("--output", type=Path, default=Path(__file__).resolve().parents[1] / "catalogue.json")
+    parser.add_argument("--output", type=Path, default=Path(__file__).resolve().parent / "games.json")
     args = parser.parse_args()
     if args.source.suffix.lower() == ".zip":
         with ZipFile(args.source) as archive:

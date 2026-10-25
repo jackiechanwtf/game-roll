@@ -8,7 +8,7 @@ import re
 from fastapi.testclient import TestClient
 import pytest
 
-from app_final import create_app
+from app.main import create_app
 
 
 @pytest.fixture
@@ -22,7 +22,7 @@ def games():
 @pytest.fixture
 def client(tmp_path, games, monkeypatch):
     # Результат предсказуем: проверяем правила, а не удачу генератора случайных чисел.
-    monkeypatch.setattr("game_service.random.choice", lambda candidates: candidates[0])
+    monkeypatch.setattr("app.game_service.random.choice", lambda candidates: candidates[0])
     with TestClient(create_app(tmp_path / "state.json", games)) as client:
         yield client
 
@@ -60,7 +60,7 @@ def test_browser_gets_new_asset_url_after_file_changes(tmp_path, games, monkeypa
     (static / "index.html").write_text('<link href="/static/style.css"><script src="/static/app.js"></script>')
     (static / "style.css").write_text("body { color: green; }")
     (static / "app.js").write_text('console.log("Game Roll");')
-    monkeypatch.setattr("app_final.BASE_DIR", tmp_path)
+    monkeypatch.setattr("app.main.BASE_DIR", tmp_path)
     with TestClient(create_app(tmp_path / "state.json", games)) as client:
         before = client.get("/")
         assert before.headers["cache-control"] == "no-cache"

@@ -1,6 +1,6 @@
 # Источник каталога игр
 
-В `catalogue.json` включены 500 ПК-игр из открытого набора **HowLongToBeat Games Scraper (2/16/2025)**, автор Zaire Ali.
+В `catalogue/games.json` включены 500 ПК-игр из открытого набора **HowLongToBeat Games Scraper (2/16/2025)**, автор Zaire Ali.
 
 - Датасет: https://www.kaggle.com/datasets/zaireali/howlongtobeat-games-scraper-2162025
 - Исходные сведения о прохождении: https://howlongtobeat.com/
@@ -26,7 +26,7 @@
 При необходимости скачайте ZIP со страницы датасета и выполните:
 
 ```bash
-python scripts/prepare_catalogue.py /путь/к/архиву.zip
+python catalogue/prepare_catalogue.py /путь/к/архиву.zip
 ```
 
-Скрипт использует только стандартную библиотеку Python.
+Скрипт использует только стандартную библиотеку Python и сохраняет результат рядом с собой в `catalogue/games.json`. Для обычной работы приложения запускать его не нужно.

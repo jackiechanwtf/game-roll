@@ -32,15 +32,16 @@ jobs:
           include-hidden-files: true
           path: |
             app_final.py
-            game_service.py
-            storage.py
-            catalogue.json
+            app/
+            catalogue/
             static/
-            scripts/
-            test_app.py
+            tests/
+            docs/
+            .github/workflows/ci.yml
             requirements.txt
             requirements-dev.txt
             README.md
-            CI_AND_TESTS.md
-            DATA_SOURCES.md
             .env.example
+            .gitignore
+            !**/__pycache__/**
+            !**/*.pyc
